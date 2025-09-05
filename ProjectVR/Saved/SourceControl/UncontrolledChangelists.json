@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/coding/Project-senior/ProjectVR/Content/MyGame/GameMap.umap",
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/WG_Mainmenu.uasset",
 				"C:/GIthub/Project-senior/ProjectVR/Content/VRTemplate/Maps/VRTemplateMap.umap"
 			]
 		}
