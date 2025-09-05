@@ -1621,3 +1621,51 @@ The following settings have been applied:
 [2025.09.05-03.33.35:752][962]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2025.09.05-03.33.35:756][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2025.09.05-03.33.35:797][963]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.09.05-03.34.49:195][766]LogDerivedDataCache: C:/Users/kanaw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.05-03.39.12:564][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 365.192627
+[2025.09.05-03.39.12:948][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.05-03.39.12:948][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 365.559845, Update Interval: 348.619659
+[2025.09.05-03.39.58:177][595]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.05-03.40.01:178][595]LogSlate: Window 'New Level' being destroyed
+[2025.09.05-03.40.01:189][595]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.05-03.40.01:205][595]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.05-03.40.01:207][595]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.09.05-03.40.01:207][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.05-03.40.01:236][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.05-03.40.01:245][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.05-03.40.01:329][595]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2025.09.05-03.40.01:329][595]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.09.05-03.40.01:331][595]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Temp/Untitled_1.Untitled_1'.
+[2025.09.05-03.40.01:407][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.05-03.40.01:436][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.05-03.40.01:437][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.05-03.40.01:437][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2025.09.05-03.40.48:554][574]LogSlate: Window 'Save Level As' being destroyed
+[2025.09.05-03.40.48:678][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/GameMap" FILE="C:/coding/Project-senior/ProjectVR/Content/MyGame/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.05-03.40.48:714][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.05-03.40.48:747][574]LogSavePackage: Moving output files for package: /Game/MyGame/GameMap
+[2025.09.05-03.40.48:747][574]LogSavePackage: Moving 'C:/coding/Project-senior/ProjectVR/Saved/GameMapD1947D9D4D392D09BBFE97B00194B796.tmp' to 'C:/coding/Project-senior/ProjectVR/Content/MyGame/GameMap.umap'
+[2025.09.05-03.40.48:783][574]LogFileHelpers: Saving map 'GameMap' took 0.206
+[2025.09.05-03.40.48:783][574]Cmd: MAP LOAD FILE="C:/coding/Project-senior/ProjectVR/Content/MyGame/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.05-03.40.48:797][574]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.05-03.40.48:797][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.05-03.40.48:818][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.05-03.40.48:819][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.05-03.40.48:820][574]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.05-03.40.48:823][574]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameMap'.
+[2025.09.05-03.40.48:823][574]LogChaosDD: Creating Chaos Debug Draw Scene for world GameMap
+[2025.09.05-03.40.48:824][574]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/GameMap.GameMap'.
+[2025.09.05-03.40.48:899][574]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.05-03.40.48:923][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.05-03.40.48:928][574]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.05-03.40.48:928][574]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2025.09.05-03.40.49:014][574]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.05-03.40.49:014][574]LogContentValidation: Enabled validators:
+[2025.09.05-03.40.49:016][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.05-03.40.49:016][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.05-03.40.49:016][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.05-03.40.49:016][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.05-03.40.49:016][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.05-03.40.49:016][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.05-03.40.49:017][574]AssetCheck: /Game/MyGame/GameMap Validating asset
+[2025.09.05-03.40.49:081][574]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/coding/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
