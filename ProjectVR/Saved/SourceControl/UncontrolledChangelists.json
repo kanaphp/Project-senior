@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/GameMap.umap",
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/WG_Mainmenu.uasset",
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/BP_Mainmenu.uasset",
+				"C:/coding/Project-senior/ProjectVR/Content/VRTemplate/Input/Actions/IA_Menu_Interact_Left_Pressed.uasset",
+				"C:/coding/Project-senior/ProjectVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/coding/Project-senior/ProjectVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/UI_Mesh/BP_Mainmenu.uasset",
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/TestMap.umap",
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/WG_InGame.uasset",
+				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/WG_SelectStart.uasset",
 				"C:/GIthub/Project-senior/ProjectVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/GIthub/Project-senior/ProjectVR/Content/MyGame/UI/WG_Mainmenu.uasset",
 				"C:/GIthub/Project-senior/ProjectVR/Content/TestMap.umap",
@@ -15,13 +25,7 @@
 				"C:/GIthub/Project-senior/ProjectVR/Content/MyGame/UI/WG_PlayTutorial.uasset",
 				"C:/GIthub/Project-senior/ProjectVR/Content/MyGame/UI/WG_ControllerTutorial.uasset",
 				"C:/GIthub/Project-senior/ProjectVR/Content/MyGame/UI/WG_GameTutorial.uasset",
-				"C:/GIthub/Project-senior/ProjectVR/Content/MyGame/UI/TestMenu.umap",
-				"C:/coding/Project-senior/ProjectVR/Content/MyGame/GameMap.umap",
-				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/WG_Mainmenu.uasset",
-				"C:/coding/Project-senior/ProjectVR/Content/MyGame/UI/BP_Mainmenu.uasset",
-				"C:/coding/Project-senior/ProjectVR/Content/VRTemplate/Input/Actions/IA_Menu_Interact_Left_Pressed.uasset",
-				"C:/coding/Project-senior/ProjectVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/coding/Project-senior/ProjectVR/Content/VRTemplate/Blueprints/VRPawn.uasset"
+				"C:/GIthub/Project-senior/ProjectVR/Content/MyGame/UI/TestMenu.umap"
 			]
 		}
 	]
