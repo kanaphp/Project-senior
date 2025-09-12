@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/_test/Map/VRTemplateMap.umap",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/_test/Input/IMC_Default_2D.uasset",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/_test/Input/Actions/IA_Move2D.uasset",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/_test/BP_Pawn/VRPawn.uasset",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/_test/BP_Pawn/BP_VRPawn2D.uasset",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/VRTemplate/Input/Actions/IA_Move2D.uasset",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/PiLabStudent/Desktop/051/TestWalk/Content/VRTemplate/Blueprints/VRGameMode.uasset"
+			]
+		}
+	]
+}
