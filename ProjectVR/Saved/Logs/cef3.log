@@ -1,4 +1,102 @@
-[1003/122454.020:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[1003/122454.687:ERROR:backend_impl.cc(1041)] Critical error found -8
-[1003/122455.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[1003/122654.432:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1004/122810.355:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1004/122812.013:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1004/123010.617:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1004/123559.648:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1004/123559.717:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1004/123600.093:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1004/133909.005:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1004/133909.085:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1004/133909.380:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1004/134024.994:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1004/134025.063:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1004/134026.382:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1004/134026.467:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
+[1004/134710.760:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1004/134711.892:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1004/134711.953:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
+[1004/183318.909:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183318.911:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183323.911:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183323.923:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183328.914:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183328.930:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183333.917:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183333.943:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183338.919:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183338.950:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183343.922:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183343.952:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183348.924:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183348.956:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183353.925:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183353.963:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183358.929:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183358.973:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183403.931:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183403.975:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183408.933:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183408.985:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183413.936:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183413.995:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183418.939:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183419.009:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183423.940:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183424.022:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183428.943:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183429.035:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183433.945:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183434.045:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183438.948:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183439.062:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183443.949:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183444.079:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183448.951:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183449.081:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183453.954:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/183454.098:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/184828.773:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/184828.784:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/184833.789:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/184833.789:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/184838.793:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/184838.804:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/200544.656:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/200544.658:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/201909.267:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1004/201909.283:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
