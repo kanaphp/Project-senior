@@ -1726,3 +1726,695 @@ The following settings have been applied:
 [2025.12.18-02.59.03:946][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3161.801758
 [2025.12.18-02.59.04:221][937]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.18-02.59.04:221][937]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3162.068115, Update Interval: 355.612671
+[2025.12.18-03.05.52:853][697]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3570.707520
+[2025.12.18-03.05.53:853][700]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-03.05.53:853][700]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3571.374268, Update Interval: 340.454712
+[2025.12.18-03.07.57:634][227]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.18-03.07.57:642][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.18-03.07.57:642][227]LogStreaming: Display: FlushAsyncLoading(425): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.07.57:642][227]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap
+[2025.12.18-03.07.57:652][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010039s)
+[2025.12.18-03.07.57:652][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap to /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap.PhichitMap (0.010086s)
+[2025.12.18-03.07.57:669][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.18-03.07.57:671][227]LogChaosDD: Creating Chaos Debug Draw Scene for world PhichitMap
+[2025.12.18-03.07.57:673][227]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap.PhichitMap'.
+[2025.12.18-03.07.57:673][227]LogPlayLevel: PIE: World Init took: (0.001859s)
+[2025.12.18-03.07.57:674][227]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.12.18-03.07.57:674][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.18-03.07.57:674][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.18-03.07.57:674][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.18-03.07.57:674][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.18-03.07.57:674][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.18-03.07.57:674][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.18-03.07.57:674][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.18-03.07.57:674][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.18-03.07.57:674][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.18-03.07.57:674][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.18-03.07.57:674][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.18-03.07.57:677][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.18-03.07.57:692][227]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.12.18-03.07.57:692][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.18-03.07.57:692][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.18-03.07.57:692][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.18-03.07.57:693][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.12.18-03.07.57:693][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.12.18-03.07.57:694][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.12.18-03.07.57:694][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.12.18-03.07.57:694][227]LogInit: FAudioDevice initialized with ID 5.
+[2025.12.18-03.07.57:694][227]LogAudio: Display: Audio Device (ID: 5) registered with world 'PhichitMap'.
+[2025.12.18-03.07.57:695][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.18-03.07.57:715][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.18-03.07.57:715][227]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.12.18-03.07.57:720][227]LogWorld: Bringing World /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap.PhichitMap up for play (max tick rate 0) at 2025.12.18-10.07.57
+[2025.12.18-03.07.57:721][227]LogWorld: Bringing up level for play took: 0.004929
+[2025.12.18-03.07.57:723][227]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.12.18-03.07.57:734][227]PIE: Server logged in
+[2025.12.18-03.07.57:736][227]PIE: Play in editor total start time 0.095 seconds.
+[2025.12.18-03.08.09:153][594]LogDerivedDataCache: C:/Users/usEr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.18-03.08.40:492][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.18-03.08.40:492][350]LogWorld: BeginTearingDown for /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap
+[2025.12.18-03.08.40:494][350]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.18-03.08.40:505][350]LogWorld: UWorld::CleanupWorld for PhichitMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-03.08.40:507][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-03.08.40:507][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.18-03.08.40:511][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-03.08.40:529][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.18-03.08.40:529][350]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.12.18-03.08.40:531][350]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.12.18-03.08.40:538][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.18-03.08.40:591][351]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.12.18-03.08.42:101][524]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.18-03.08.42:108][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.18-03.08.42:108][524]LogStreaming: Display: FlushAsyncLoading(426): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.08.42:108][524]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap
+[2025.12.18-03.08.42:117][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009710s)
+[2025.12.18-03.08.42:117][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap to /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap.PhichitMap (0.009748s)
+[2025.12.18-03.08.42:133][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.18-03.08.42:134][524]LogChaosDD: Creating Chaos Debug Draw Scene for world PhichitMap
+[2025.12.18-03.08.42:135][524]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap.PhichitMap'.
+[2025.12.18-03.08.42:136][524]LogPlayLevel: PIE: World Init took: (0.001973s)
+[2025.12.18-03.08.42:136][524]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.18-03.08.42:136][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.18-03.08.42:136][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.18-03.08.42:136][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.18-03.08.42:136][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.18-03.08.42:136][524]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.18-03.08.42:136][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.18-03.08.42:136][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.18-03.08.42:136][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.18-03.08.42:136][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.18-03.08.42:136][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.18-03.08.42:136][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.18-03.08.42:138][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.18-03.08.42:153][524]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.12.18-03.08.42:153][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.18-03.08.42:153][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.18-03.08.42:153][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.18-03.08.42:154][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.18-03.08.42:154][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.18-03.08.42:155][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.18-03.08.42:155][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.18-03.08.42:155][524]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.18-03.08.42:155][524]LogAudio: Display: Audio Device (ID: 6) registered with world 'PhichitMap'.
+[2025.12.18-03.08.42:155][524]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.18-03.08.42:176][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.18-03.08.42:176][524]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.12.18-03.08.42:181][524]LogWorld: Bringing World /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap.PhichitMap up for play (max tick rate 0) at 2025.12.18-10.08.42
+[2025.12.18-03.08.42:181][524]LogWorld: Bringing up level for play took: 0.004332
+[2025.12.18-03.08.42:184][524]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.12.18-03.08.42:193][524]PIE: Server logged in
+[2025.12.18-03.08.42:195][524]PIE: Play in editor total start time 0.088 seconds.
+[2025.12.18-03.08.46:293][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.18-03.08.46:293][  8]LogWorld: BeginTearingDown for /Game/MyGame/Province/Phichit/UEDPIE_0_PhichitMap
+[2025.12.18-03.08.46:293][  8]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.18-03.08.46:298][  8]LogWorld: UWorld::CleanupWorld for PhichitMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-03.08.46:300][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-03.08.46:300][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.18-03.08.46:304][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-03.08.46:321][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.18-03.08.46:321][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.18-03.08.46:324][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.18-03.08.46:329][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.18-03.08.46:381][  9]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.12.18-03.12.24:045][977]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3961.887451
+[2025.12.18-03.12.25:044][980]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-03.12.25:044][980]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3962.553955, Update Interval: 301.395294
+[2025.12.18-03.16.18:039][331]LogStreaming: Display: FlushAsyncLoading(427): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.16.32:710][966]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass
+[2025.12.18-03.16.32:715][966]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.18-03.16.32:716][966]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.12.18-03.16.32:719][966]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.16.33:162][966]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.18-03.16.33:162][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.16.33:162][966]MaterialEditorStats: Shader Count: 0
+[2025.12.18-03.16.33:162][966]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.16.33:182][966]LogSlate: Took 0.006606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.18-03.16.33:430][968]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.16.33:430][968]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.18-03.16.33:430][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.16.33:430][968]MaterialEditorStats: Shader Count: 2
+[2025.12.18-03.16.33:430][968]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.16.39:886][582]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.16.39:889][582]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels
+[2025.12.18-03.16.39:893][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.18-03.16.39:893][582]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.12.18-03.16.40:261][582]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.18-03.16.40:261][582]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.12.18-03.16.40:261][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.18-03.16.40:261][582]MaterialEditorStats: Shader Count: 0
+[2025.12.18-03.16.40:261][582]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.16.40:899][620]MaterialEditorStats: Base pass vertex shader: 358 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.16.40:899][620]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.18-03.16.40:899][620]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.12.18-03.16.40:899][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.18-03.16.40:899][620]MaterialEditorStats: Shader Count: 1
+[2025.12.18-03.16.40:899][620]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.16.42:103][703]MaterialEditorStats: Base pass vertex shader: 358 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.16.42:103][703]MaterialEditorStats: Texture samplers: 8/16
+[2025.12.18-03.16.42:103][703]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.12.18-03.16.42:103][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.18-03.16.42:103][703]MaterialEditorStats: Shader Count: 2
+[2025.12.18-03.16.42:103][703]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.16.56:284][645]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.18-03.16.56:284][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.16.56:284][645]MaterialEditorStats: Shader Count: 0
+[2025.12.18-03.16.56:284][645]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.16.56:419][647]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.16.56:419][647]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.18-03.16.56:419][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.16.56:419][647]MaterialEditorStats: Shader Count: 2
+[2025.12.18-03.16.56:419][647]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.17:977][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_37 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_37 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_37
+[2025.12.18-03.17.17:977][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionLinearInterpolate'MaterialGraphNode_37.MaterialExpressionLinearInterpolate_70'")'
+[2025.12.18-03.17.17:977][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2025.12.18-03.17.17:977][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_3.MaterialExpressionTextureSample_82'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_5 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_5 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_5
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_5.MaterialExpressionConstant_115'")'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_6 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_6 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_6
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_6.MaterialExpressionConstant_116'")'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_36 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_36 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_36
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_36.MaterialExpressionMultiply_130'")'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_4
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_4.MaterialExpressionTextureSample_83'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_21 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_21 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_21
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant3Vector'MaterialGraphNode_21.MaterialExpressionConstant3Vector_29'")'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_12 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_12 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_12
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionClamp'MaterialGraphNode_12.MaterialExpressionClamp_15'")'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_40 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_40 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_40
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_40.MaterialExpressionMultiply_0'")'
+[2025.12.18-03.17.17:978][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_40 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_40 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_40
+[2025.12.18-03.17.17:978][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_40.MaterialExpressionMultiply_0'")'
+[2025.12.18-03.17.17:979][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_17 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_17 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_17
+[2025.12.18-03.17.17:979][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_17.MaterialExpressionAdd_60'")'
+[2025.12.18-03.17.17:979][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_8 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_8 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_8
+[2025.12.18-03.17.17:979][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_8.MaterialExpressionConstant_117'")'
+[2025.12.18-03.17.17:979][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_9 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_9 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_9
+[2025.12.18-03.17.17:979][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSubtract'MaterialGraphNode_9.MaterialExpressionSubtract_15'")'
+[2025.12.18-03.17.17:979][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_11 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_11 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_11
+[2025.12.18-03.17.17:979][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_11.MaterialExpressionConstant_118'")'
+[2025.12.18-03.17.17:979][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_10 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_10 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_10
+[2025.12.18-03.17.17:979][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDivide'MaterialGraphNode_10.MaterialExpressionDivide_15'")'
+[2025.12.18-03.17.17:979][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_19 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_19 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_19
+[2025.12.18-03.17.17:979][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_19.MaterialExpressionMultiply_124'")'
+[2025.12.18-03.17.17:980][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_15 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_15 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_15
+[2025.12.18-03.17.17:980][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_15.MaterialExpressionConstant_119'")'
+[2025.12.18-03.17.17:980][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_16 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_16 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_16
+[2025.12.18-03.17.17:980][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_16.MaterialExpressionConstant_120'")'
+[2025.12.18-03.17.17:980][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_13 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_13 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_13
+[2025.12.18-03.17.17:980][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_13.MaterialExpressionTextureSample_84'",OutputIndex=1,Mask=1,MaskR=1)'
+[2025.12.18-03.17.17:980][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_14 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_14 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_14
+[2025.12.18-03.17.17:980][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionLinearInterpolate'MaterialGraphNode_14.MaterialExpressionLinearInterpolate_69'")'
+[2025.12.18-03.17.17:980][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_7
+[2025.12.18-03.17.17:980][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionPixelDepth'MaterialGraphNode_7.MaterialExpressionPixelDepth_15'",Mask=1,MaskR=1)'
+[2025.12.18-03.17.17:981][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_18 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_18 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_18
+[2025.12.18-03.17.17:981][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_18.MaterialExpressionTextureCoordinate_60'")'
+[2025.12.18-03.17.17:981][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_20 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_20 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_20
+[2025.12.18-03.17.17:981][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_20.MaterialExpressionConstant_121'")'
+[2025.12.18-03.17.17:981][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_24 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_24 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_24
+[2025.12.18-03.17.17:981][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_24.MaterialExpressionMultiply_125'")'
+[2025.12.18-03.17.17:981][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_23 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_23 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_23
+[2025.12.18-03.17.17:981][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_23.MaterialExpressionTextureCoordinate_61'")'
+[2025.12.18-03.17.17:982][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_22 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_22 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_22
+[2025.12.18-03.17.17:982][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_22.MaterialExpressionTextureSample_85'",OutputIndex=1,Mask=1,MaskR=1)'
+[2025.12.18-03.17.17:982][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_28 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_28 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_28
+[2025.12.18-03.17.17:982][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_28.MaterialExpressionMultiply_126'")'
+[2025.12.18-03.17.17:982][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_27 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_27 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_27
+[2025.12.18-03.17.17:982][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_27.MaterialExpressionTextureCoordinate_62'")'
+[2025.12.18-03.17.17:982][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_26 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_26 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_26
+[2025.12.18-03.17.17:982][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_26.MaterialExpressionTextureSample_86'",OutputIndex=1,Mask=1,MaskR=1)'
+[2025.12.18-03.17.17:982][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_32 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_32 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_32
+[2025.12.18-03.17.17:982][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_32.MaterialExpressionMultiply_127'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_31 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_31 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_31
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_31.MaterialExpressionTextureCoordinate_63'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_30 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_30 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_30
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_30.MaterialExpressionTextureSample_87'",OutputIndex=1,Mask=1,MaskR=1)'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_29 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_29 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_29
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_29.MaterialExpressionAdd_62'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_33 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_33 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_33
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_33.MaterialExpressionAdd_63'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_25 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_25 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_25
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_25.MaterialExpressionAdd_61'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_34 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_34 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_34
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_34.MaterialExpressionMultiply_128'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_35 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_35 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_35.MaterialExpressionMultiply_129'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_3
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_3.MaterialExpressionTextureSample_82'",OutputIndex=4,Mask=1,MaskA=1)'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_38 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_38 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_38
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant3Vector'MaterialGraphNode_38.MaterialExpressionConstant3Vector_30'")'
+[2025.12.18-03.17.17:983][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_35 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_35 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_35
+[2025.12.18-03.17.17:983][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_35.MaterialExpressionMultiply_129'")'
+[2025.12.18-03.17.17:984][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_39 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_39 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_39
+[2025.12.18-03.17.17:984][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_39.MaterialExpressionTextureCoordinate_0'")'
+[2025.12.18-03.17.17:984][316]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_41 while ResolveName, will return /Engine/Transient.M_Concrete_Panels:MaterialGraph_0.MaterialGraphNode_41 but could also be: /Engine/Transient.M_Ground_Grass:MaterialGraph_0.MaterialGraphNode_41
+[2025.12.18-03.17.17:984][316]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_41.MaterialExpressionConstant_0'")'
+[2025.12.18-03.17.18:017][316]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.18-03.17.18:017][316]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.18:017][316]MaterialEditorStats: Shader Count: 0
+[2025.12.18-03.17.18:017][316]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.18:189][318]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.18:189][318]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.18-03.17.18:189][318]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.18:189][318]MaterialEditorStats: Shader Count: 2
+[2025.12.18-03.17.18:189][318]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.30:782][206]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.18-03.17.30:782][206]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.30:782][206]MaterialEditorStats: Shader Count: 0
+[2025.12.18-03.17.30:782][206]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.30:815][208]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.30:815][208]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.18-03.17.30:815][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.30:815][208]MaterialEditorStats: Shader Count: 1
+[2025.12.18-03.17.30:815][208]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.30:831][209]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.30:831][209]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.18-03.17.30:831][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.30:831][209]MaterialEditorStats: Shader Count: 2
+[2025.12.18-03.17.30:831][209]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.35:331][548]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.18-03.17.35:331][548]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.35:331][548]MaterialEditorStats: Shader Count: 0
+[2025.12.18-03.17.35:331][548]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.35:363][550]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.35:363][550]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.18-03.17.35:363][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.35:363][550]MaterialEditorStats: Shader Count: 1
+[2025.12.18-03.17.35:363][550]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.35:379][551]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.35:379][551]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.18-03.17.35:379][551]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.35:379][551]MaterialEditorStats: Shader Count: 2
+[2025.12.18-03.17.35:379][551]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.43:800][225]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.18-03.17.43:800][225]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.43:800][225]MaterialEditorStats: Shader Count: 0
+[2025.12.18-03.17.43:800][225]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.43:833][227]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.43:833][227]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.18-03.17.43:833][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.43:833][227]MaterialEditorStats: Shader Count: 1
+[2025.12.18-03.17.43:833][227]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.43:849][228]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.43:849][228]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.18-03.17.43:849][228]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.43:849][228]MaterialEditorStats: Shader Count: 2
+[2025.12.18-03.17.43:849][228]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.46:381][406]LogMaterialEditor: Applying material M_Ground_Grass
+[2025.12.18-03.17.46:520][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.18-03.17.46:675][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.18-03.17.46:695][406]MaterialEditorStats: Base pass shader: 915 instructions
+Stats: Resources Used: 18
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.18-03.17.46:695][406]MaterialEditorStats: Base pass shader with Surface Lightmap: 958 instructions
+Stats: Resources Used: 19
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.18-03.17.46:695][406]MaterialEditorStats: Base pass vertex shader: 352 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.18-03.17.46:695][406]MaterialEditorStats: Texture samplers: 5/16
+[2025.12.18-03.17.46:695][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.18-03.17.46:695][406]MaterialEditorStats: Shader Count: 37
+[2025.12.18-03.17.46:695][406]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.18-03.17.48:137][503]LogMaterialEditor: Saving and Compiling material M_Ground_Grass
+[2025.12.18-03.17.48:139][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.18-03.17.48:163][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Ground_Grass] ([1] browsable assets)...
+[2025.12.18-03.17.48:168][503]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass]
+[2025.12.18-03.17.48:168][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Ground_Grass]
+[2025.12.18-03.17.48:168][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Grass" FILE="../../../../GIthub/Project-senior/ProjectVR/Content/StarterContent/Materials/M_Ground_Grass.uasset" SILENT=true
+[2025.12.18-03.17.48:183][503]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Ground_Grass
+[2025.12.18-03.17.48:184][503]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/M_Ground_Grass29BF803A4AFB69E61D2B2E9372BF9024.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/StarterContent/Materials/M_Ground_Grass.uasset'
+[2025.12.18-03.17.48:191][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.518 ms (total: 931.767 ms)
+[2025.12.18-03.17.48:213][503]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.18-03.17.48:213][503]LogContentValidation: Enabled validators:
+[2025.12.18-03.17.48:213][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.18-03.17.48:213][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.18-03.17.48:213][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.18-03.17.48:213][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.18-03.17.48:213][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.18-03.17.48:213][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.18-03.17.48:213][503]AssetCheck: /Game/StarterContent/Materials/M_Ground_Grass Validating asset
+[2025.12.18-03.17.50:243][640]LogSlate: Window 'M_Concrete_Panels' being destroyed
+[2025.12.18-03.17.50:248][640]LogSlate: Window 'M_Concrete_Panels' being destroyed
+[2025.12.18-03.17.50:272][640]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-03.17.50:272][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-03.17.50:324][640]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-03.17.50:324][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-03.17.50:357][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.18-03.17.53:807][  8]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.12.18-03.17.53:825][  8]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.12.18-03.17.53:835][  8]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.12.18-03.17.53:839][  8]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.12.18-03.17.53:844][  8]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2025.12.18-03.17.53:844][  8]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2025.12.18-03.17.53:844][  8]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.12.18-03.17.53:847][  8]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2025.12.18-03.17.53:860][  8]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.12.18-03.18.08:500][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4306.337891
+[2025.12.18-03.18.08:657][530]LogStreaming: Display: FlushAsyncLoading(445): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.18.08:788][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-03.18.08:788][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4306.618652, Update Interval: 336.415283
+[2025.12.18-03.18.10:429][708]LogStreaming: Display: FlushAsyncLoading(446): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.18.16:854][356]LogStreaming: Display: FlushAsyncLoading(447): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-03.18.16:873][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.18-03.18.18:217][356]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.18-03.18.18:240][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.18-03.18.18:257][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.18-03.18.18:274][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.12.18-03.18.34:372][850]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: ================================================
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Total job queries 861, among them cache hits 189 (21.95%), DDC hits 476 (55.28%), Duplicates 189 (21.95%)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Tracking 483 distinct input hashes that result in 309 distinct outputs (63.98%)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: RAM used: 4.42 MiB of 1.60 GiB budget. Usage: 0.27%
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Average time worker was idle: 32.38 s
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 1.73 s
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Job life time (pending + execution): average 0.88 s, max 1.81
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Shader code size: total 101.977 KiB, numShaders 7, average 14.567 KiB, min 7.703 KiB, max 26.125 KiB
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.03 s
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Average processing rate: 1.74 jobs/sec
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Total thread time: 4.314 s
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Total thread preprocess time: 9.5 s
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Percentage time preprocessing: 220.23%
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Effective parallelization: 1.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.106927
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.44 sec, max 1.45 sec, min 1.43 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 66.86% of total time (compiled    2 times, average 1.44 sec, max 1.45 sec, min 1.43 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.17% of total time (compiled    3 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.97% of total time (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: === Material stats ===
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Materials Translated:    285
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Material Translation Only: 0.08 s (42%)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: Material Cache Hits: 49 (17%)
+[2025.12.18-03.18.34:462][850]LogShaderCompilers: Display: ================================================
+[2025.12.18-03.18.36:977][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.18-03.18.37:004][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyGame/Province/Phichit/LayerInfo/Marble_LayerInfo] ([1] browsable assets)...
+[2025.12.18-03.18.37:004][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/Province/Phichit/LayerInfo/Marble_LayerInfo]
+[2025.12.18-03.18.37:012][139]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Phichit/LayerInfo/Marble_LayerInfo
+[2025.12.18-03.18.37:012][139]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/Marble_LayerInfoAB3CD43C46655E8125250D804D5E5D6D.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Phichit/LayerInfo/Marble_LayerInfo.uasset'
+[2025.12.18-03.18.37:020][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.199 ms (total: 975.967 ms)
+[2025.12.18-03.18.37:046][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.18-03.18.37:046][139]LogContentValidation: Enabled validators:
+[2025.12.18-03.18.37:046][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.18-03.18.37:046][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.18-03.18.37:046][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.18-03.18.37:046][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.18-03.18.37:046][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.18-03.18.37:046][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.18-03.18.37:046][139]AssetCheck: /Game/MyGame/Province/Phichit/LayerInfo/Marble_LayerInfo Validating asset
+[2025.12.18-03.18.37:070][139]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.18-03.18.37:556][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.18-03.18.37:563][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_0 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:563][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_1 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:563][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_2 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:563][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_3 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:563][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_4 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:563][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_5 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_6 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_7 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_8 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_9 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_10 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_11 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_12 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_13 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_14 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_15 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:564][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_16 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_17 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_18 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_19 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_20 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_21 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_22 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_23 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_24 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:565][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_25 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_26 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_27 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_28 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_29 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_30 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_31 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_32 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_33 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_34 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:566][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_35 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_36 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_37 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_38 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_39 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_40 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_41 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_42 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_43 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_44 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_45 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_46 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:567][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_47 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_48 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_49 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_50 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_51 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_52 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_53 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_54 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_55 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_56 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_57 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:568][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_58 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:569][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_59 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:569][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_60 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:569][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_61 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:569][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_62 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:569][190]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.LandscapeComponent_63 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.18.37:621][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyGame/Province/Phichit/PhichitMap_Auto2
+[2025.12.18-03.18.37:622][190]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/PhichitMap_Auto204F6D3014BCE61364430D38282200233.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Saved/Autosaves/Game/MyGame/Province/Phichit/PhichitMap_Auto2.umap'
+[2025.12.18-03.18.37:623][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyGame/Province/Phichit/PhichitMap' took 0.083
+[2025.12.18-03.18.37:623][190]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2025.12.18-03.18.48:990][493]Cmd: TRANSACTION UNDO
+[2025.12.18-03.18.48:990][493]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.12.18-03.18.54:260][ 42]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.12.18-03.18.55:044][ 94]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.12.18-03.19.33:679][272]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffc2, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.12.18-03.19.33:679][272]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffbc, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.12.18-03.19.33:679][272]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffc6, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.12.18-03.19.33:679][272]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffcf, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2025.12.18-03.19.57:552][941]Cmd: DELETE
+[2025.12.18-03.19.57:552][941]Cmd: ACTOR DELETE
+[2025.12.18-03.19.57:557][941]LogEditorActor: Deleted Actor: Landscape
+[2025.12.18-03.19.57:588][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.18-03.19.57:594][941]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.12.18-03.20.55:649][245]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.12.18-03.21.00:980][598]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.12.18-03.21.10:094][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.18-03.21.11:323][607]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.18-03.21.11:352][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.18-03.21.11:370][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.18-03.21.11:386][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.18-03.21.12:776][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.12.18-03.21.13:963][743]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.18-03.21.13:985][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.12.18-03.21.14:002][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.12.18-03.21.14:019][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.18-03.21.16:344][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.18-03.21.17:217][996]LogSlate: Window 'Save Content' being destroyed
+[2025.12.18-03.21.17:230][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.18-03.21.17:279][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.12.18-03.21.17:280][996]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.LandscapeComponent_0 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.21.17:280][996]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.LandscapeComponent_1 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.21.17:280][996]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.LandscapeComponent_2 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.21.17:280][996]LogLandscape: Display: The component /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.LandscapeComponent_3 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2025.12.18-03.21.17:313][996]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Phichit/PhichitMap
+[2025.12.18-03.21.17:313][996]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/PhichitMapE308CE204B26A0C702C799B1198A9D07.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Phichit/PhichitMap.umap'
+[2025.12.18-03.21.17:325][996]LogFileHelpers: Saving map 'PhichitMap' took 0.080
+[2025.12.18-03.21.17:325][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyGame/Province/Phichit/LayerInfo/Dirt_LayerInfo] ([1] browsable assets)...
+[2025.12.18-03.21.17:325][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/Province/Phichit/LayerInfo/Dirt_LayerInfo]
+[2025.12.18-03.21.17:330][996]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Phichit/LayerInfo/Dirt_LayerInfo
+[2025.12.18-03.21.17:330][996]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/Dirt_LayerInfo6887C4184DAC2D86B0EF5EB9F15249A6.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Phichit/LayerInfo/Dirt_LayerInfo.uasset'
+[2025.12.18-03.21.17:332][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyGame/Province/Phichit/LayerInfo/Grass_LayerInfo] ([1] browsable assets)...
+[2025.12.18-03.21.17:332][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/Province/Phichit/LayerInfo/Grass_LayerInfo]
+[2025.12.18-03.21.17:338][996]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Phichit/LayerInfo/Grass_LayerInfo
+[2025.12.18-03.21.17:338][996]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/Grass_LayerInfo095E89EC443DC392C6CAD782DA199C42.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Phichit/LayerInfo/Grass_LayerInfo.uasset'
+[2025.12.18-03.21.17:350][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.390 ms (total: 1.09 sec)
+[2025.12.18-03.21.17:375][996]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.18-03.21.17:375][996]LogContentValidation: Enabled validators:
+[2025.12.18-03.21.17:375][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.18-03.21.17:375][996]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.18-03.21.17:375][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.18-03.21.17:375][996]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.18-03.21.17:375][996]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.18-03.21.17:375][996]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.18-03.21.17:375][996]AssetCheck: /Game/MyGame/Province/Phichit/PhichitMap Validating asset
+[2025.12.18-03.21.17:375][996]AssetCheck: /Game/MyGame/Province/Phichit/LayerInfo/Dirt_LayerInfo Validating asset
+[2025.12.18-03.21.17:375][996]AssetCheck: /Game/MyGame/Province/Phichit/LayerInfo/Grass_LayerInfo Validating asset
+[2025.12.18-03.21.17:393][996]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.18-03.21.49:919][419]Cmd: TRANSACTION UNDO
+[2025.12.18-03.21.49:919][419]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.12.18-03.21.53:801][724]Cmd: TRANSACTION UNDO
+[2025.12.18-03.21.53:801][724]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.12.18-03.21.55:736][864]Cmd: TRANSACTION UNDO
+[2025.12.18-03.21.55:736][864]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.12.18-03.22.26:316][500]Cmd: TRANSACTION UNDO
+[2025.12.18-03.22.26:316][500]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.18-03.22.33:968][178]Cmd: TRANSACTION UNDO
+[2025.12.18-03.22.33:968][178]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.18-03.22.33:974][178]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.18-03.22.34:175][185]Cmd: TRANSACTION UNDO
+[2025.12.18-03.22.34:175][185]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.18-03.22.34:181][185]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.18-03.22.34:422][193]Cmd: TRANSACTION UNDO
+[2025.12.18-03.22.34:422][193]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.18-03.22.34:428][193]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.18-03.22.34:608][204]Cmd: TRANSACTION UNDO
+[2025.12.18-03.22.34:608][204]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.12.18-03.22.51:045][614]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'AssetThumbnail.Border'.'
+[2025.12.18-03.22.58:259][264]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.18-03.24.31:620][661]Cmd: TRANSACTION UNDO
+[2025.12.18-03.24.31:621][661]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.12.18-03.24.31:625][661]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.12.18-03.24.31:890][670]Cmd: TRANSACTION UNDO
+[2025.12.18-03.24.31:890][670]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.12.18-03.24.31:893][670]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: ================================================
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Total job queries 869, among them cache hits 191 (21.98%), DDC hits 480 (55.24%), Duplicates 189 (21.75%)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Tracking 489 distinct input hashes that result in 312 distinct outputs (63.80%)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: RAM used: 4.48 MiB of 1.60 GiB budget. Usage: 0.27%
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Average time worker was idle: 100.38 s
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.73 s
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.81
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Shader code size: total 143.262 KiB, numShaders 9, average 15.918 KiB, min 7.703 KiB, max 27.77 KiB
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.72 s
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Average processing rate: 1.57 jobs/sec
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Total thread time: 5.995 s
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Total thread preprocess time: 9.584 s
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Percentage time preprocessing: 159.88%
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Effective parallelization: 1.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.104891
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.45 sec, max 1.47 sec, min 1.43 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.23 sec, max 0.24 sec, min 0.21 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 72.63% of total time (compiled    3 times, average 1.45 sec, max 1.47 sec, min 1.43 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.95% of total time (compiled    3 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.42% of total time (compiled    3 times, average 0.23 sec, max 0.24 sec, min 0.21 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: === Material stats ===
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Materials Translated:    289
+[2025.12.18-03.24.34:465][882]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.12.18-03.24.34:466][882]LogShaderCompilers: Display: Material Translation Only: 0.08 s (43%)
+[2025.12.18-03.24.34:466][882]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.18-03.24.34:466][882]LogShaderCompilers: Display: Material Cache Hits: 50 (17%)
+[2025.12.18-03.24.34:466][882]LogShaderCompilers: Display: ================================================
+[2025.12.18-03.24.41:629][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4699.487305
+[2025.12.18-03.24.41:928][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-03.24.41:929][559]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4699.776367, Update Interval: 344.505127
+[2025.12.18-03.26.41:320][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.18-03.26.41:384][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.18-03.26.41:391][974]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.12.18-03.26.41:393][974]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.12.18-03.26.41:394][974]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.12.18-03.26.41:395][974]LogTexture: Display: Building textures: /Game/MyGame/Province/Phichit/PhichitMap.PhichitMap:PersistentLevel.Landscape_1.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.12.18-03.26.41:430][974]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Phichit/PhichitMap
+[2025.12.18-03.26.41:431][974]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/PhichitMapF67573CC480E92564A6606A9954CBC37.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Phichit/PhichitMap.umap'
+[2025.12.18-03.26.41:441][974]LogFileHelpers: Saving map 'PhichitMap' took 0.097
+[2025.12.18-03.26.41:453][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.090 ms (total: 1.22 sec)
+[2025.12.18-03.26.41:480][974]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.18-03.26.41:481][974]LogContentValidation: Enabled validators:
+[2025.12.18-03.26.41:481][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.18-03.26.41:481][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.18-03.26.41:481][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.18-03.26.41:481][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.18-03.26.41:481][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.18-03.26.41:481][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.18-03.26.41:481][974]AssetCheck: /Game/MyGame/Province/Phichit/PhichitMap Validating asset
