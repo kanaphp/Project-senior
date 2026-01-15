@@ -2180,3 +2180,1616 @@ Script Stack (0 frames) :
 [2026.01.14-12.32.52:684][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3245.474365
 [2026.01.14-12.32.53:684][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.14-12.32.53:684][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3246.141113, Update Interval: 339.092377
+[2026.01.14-12.39.28:897][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3641.689697
+[2026.01.14-12.39.29:896][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-12.39.29:897][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3642.356445, Update Interval: 335.102386
+[2026.01.14-12.40.15:735][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.14-12.40.15:739][ 57]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-12.40.16:606][ 57]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2026.01.14-12.40.16:653][ 57]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-12.40.16:653][ 57]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-12.40.16:685][ 57]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap
+[2026.01.14-12.40.16:686][ 57]Cmd: MAP LOAD FILE="../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.14-12.40.16:747][ 57]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-12.40.16:747][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.40.16:773][ 57]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-12.40.16:777][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.14-12.40.16:782][ 57]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-12.40.16:782][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.40.16:809][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.01.14-12.40.16:832][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.14-12.40.16:845][ 57]LogAudio: Display: Audio Device (ID: 1) registered with world 'AmnajchareonMap'.
+[2026.01.14-12.40.16:845][ 57]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-12.40.16:846][ 57]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-12.40.16:873][ 57]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.14-12.40.16:898][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.14-12.40.16:910][ 57]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.14-12.40.16:910][ 57]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2026.01.14-12.40.32:459][235]LogDerivedDataCache: C:/Users/usEr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.14-12.41.05:241][425]Cmd: TRANSACTION UNDO
+[2026.01.14-12.41.05:241][425]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-12.41.05:656][440]Cmd: TRANSACTION UNDO
+[2026.01.14-12.41.05:656][440]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-12.43.54:419][642]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.54:419][642]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.55:567][704]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.55:568][704]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.56:259][743]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.56:259][743]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.56:414][750]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.56:414][750]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.56:542][758]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.56:542][758]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.56:684][764]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.56:684][764]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.56:817][769]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.56:817][769]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.56:966][775]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.56:966][775]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.57:093][783]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.57:093][783]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.57:234][789]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.57:234][789]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.57:381][795]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.57:381][795]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.57:512][800]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.57:512][800]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.57:666][810]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.57:666][810]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.57:817][817]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.57:817][817]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.57:958][822]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.57:958][822]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.58:111][824]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.58:111][824]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.58:265][829]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.58:265][829]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.58:404][831]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.58:404][831]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.58:536][833]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.58:536][833]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.58:705][839]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.58:705][839]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.58:844][848]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.58:844][848]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.58:980][857]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.58:980][857]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.59:146][868]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.59:146][868]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.59:291][874]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.59:291][874]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.43.59:436][880]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.59:436][880]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.59:589][890]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.59:589][890]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.59:742][900]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.59:742][900]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.43.59:909][911]Cmd: TRANSACTION UNDO
+[2026.01.14-12.43.59:909][911]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.00:024][918]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.00:024][918]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.00:191][929]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.00:191][929]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.44.00:348][939]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.00:348][939]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.00:503][949]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.00:503][949]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.44.00:666][956]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.00:666][956]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.44.00:830][963]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.00:830][963]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.44.00:992][970]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.00:992][970]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.44.01:151][980]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.01:151][980]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.44.01:328][988]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.01:328][988]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.44.01:548][996]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.01:548][996]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.01:762][  3]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.01:762][  3]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.01:928][  8]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.01:928][  8]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.44.02:089][ 14]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.02:089][ 14]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.44.02:240][ 20]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.02:241][ 20]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.02:410][ 31]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.02:410][ 31]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.02:603][ 44]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.02:603][ 44]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-12.44.02:742][ 53]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.02:742][ 53]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.02:921][ 65]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.02:921][ 65]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.44.03:131][ 79]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.03:131][ 79]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.44.03:345][ 93]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.03:345][ 93]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.03:639][109]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.03:639][109]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.44.04:038][136]Cmd: TRANSACTION UNDO
+[2026.01.14-12.44.04:038][136]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.46.01:628][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4034.410889
+[2026.01.14-12.46.01:940][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-12.46.01:940][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4034.708984, Update Interval: 337.832581
+[2026.01.14-12.47.21:617][ 76]Cmd: TRANSACTION UNDO
+[2026.01.14-12.47.21:617][ 76]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.47.38:024][ 94]Cmd: TRANSACTION UNDO
+[2026.01.14-12.47.38:024][ 94]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.47.43:882][462]Cmd: TRANSACTION UNDO
+[2026.01.14-12.47.43:882][462]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.47.46:516][604]Cmd: DELETE
+[2026.01.14-12.47.46:516][604]Cmd: ACTOR DELETE
+[2026.01.14-12.47.46:520][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-12.47.46:548][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.14-12.47.46:551][604]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.01.14-12.48.21:243][906]Cmd: TRANSACTION UNDO
+[2026.01.14-12.48.21:243][906]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.48.21:626][918]Cmd: TRANSACTION UNDO
+[2026.01.14-12.48.21:626][918]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.48.22:088][945]Cmd: TRANSACTION UNDO
+[2026.01.14-12.48.22:089][945]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.48.36:694][884]Cmd: DELETE
+[2026.01.14-12.48.36:694][884]Cmd: ACTOR DELETE
+[2026.01.14-12.48.36:698][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-12.48.36:722][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.14-12.48.36:724][884]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.01.14-12.48.37:688][959]Cmd: TRANSACTION UNDO
+[2026.01.14-12.48.37:688][959]LogEditorTransaction: Undo Delete Elements
+[2026.01.14-12.48.38:135][973]Cmd: TRANSACTION UNDO
+[2026.01.14-12.48.38:135][973]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.48.38:709][  6]Cmd: TRANSACTION UNDO
+[2026.01.14-12.48.38:709][  6]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.48.39:888][ 88]Cmd: TRANSACTION UNDO
+[2026.01.14-12.48.39:888][ 88]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.49.28:740][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-12.49.28:808][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.14-12.49.28:889][235]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-12.49.28:890][235]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapC7A2CBF748E56A6E5E88A999BF53CB05.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-12.49.28:901][235]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.138
+[2026.01.14-12.49.28:915][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.068 ms (total: 995.391 ms)
+[2026.01.14-12.49.28:946][235]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-12.49.28:946][235]LogContentValidation: Enabled validators:
+[2026.01.14-12.49.28:946][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-12.49.28:946][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-12.49.28:946][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-12.49.28:946][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-12.49.28:946][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-12.49.28:946][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-12.49.28:946][235]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-12.50.51:154][967]Cmd: TRANSACTION UNDO
+[2026.01.14-12.50.51:154][967]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-12.52.07:575][ 25]Cmd: TRANSACTION UNDO
+[2026.01.14-12.52.07:575][ 25]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.52.07:929][ 34]Cmd: TRANSACTION UNDO
+[2026.01.14-12.52.07:929][ 34]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-12.52.08:188][ 44]Cmd: TRANSACTION UNDO
+[2026.01.14-12.52.08:188][ 44]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.52.08:520][ 67]Cmd: TRANSACTION UNDO
+[2026.01.14-12.52.08:520][ 67]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.52.08:917][ 95]Cmd: TRANSACTION UNDO
+[2026.01.14-12.52.08:917][ 95]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-12.52.11:542][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4404.386230
+[2026.01.14-12.52.11:846][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-12.52.11:846][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4404.677734, Update Interval: 305.462189
+[2026.01.14-12.53.44:105][412]Cmd: TRANSACTION UNDO
+[2026.01.14-12.53.44:105][412]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-12.54.37:671][176]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.14-12.54.37:684][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-12.54.37:684][176]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-12.54.37:692][176]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-12.54.37:703][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011290s)
+[2026.01.14-12.54.37:703][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap to /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap (0.011349s)
+[2026.01.14-12.54.37:731][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.14-12.54.37:732][176]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-12.54.37:734][176]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-12.54.37:734][176]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2026.01.14-12.54.37:735][176]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.01.14-12.54.37:735][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-12.54.37:735][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-12.54.37:735][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-12.54.37:735][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-12.54.37:735][176]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-12.54.37:735][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-12.54.37:735][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-12.54.37:735][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-12.54.37:735][176]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-12.54.37:735][176]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-12.54.37:735][176]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-12.54.37:738][176]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-12.54.37:754][176]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.14-12.54.37:754][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-12.54.37:754][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-12.54.37:754][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-12.54.37:755][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.01.14-12.54.37:755][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.01.14-12.54.37:757][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.01.14-12.54.37:757][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.01.14-12.54.37:757][176]LogInit: FAudioDevice initialized with ID 8.
+[2026.01.14-12.54.37:757][176]LogAudio: Display: Audio Device (ID: 8) registered with world 'AmnajchareonMap'.
+[2026.01.14-12.54.37:757][176]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.14-12.54.37:776][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-12.54.37:776][176]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.14-12.54.37:781][176]LogWorld: Bringing World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap up for play (max tick rate 0) at 2026.01.14-19.54.37
+[2026.01.14-12.54.37:782][176]LogWorld: Bringing up level for play took: 0.005148
+[2026.01.14-12.54.37:784][176]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.01.14-12.54.37:797][176]PIE: Server logged in
+[2026.01.14-12.54.37:801][176]PIE: Play in editor total start time 0.118 seconds.
+[2026.01.14-12.54.50:771][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-12.54.50:771][134]LogWorld: BeginTearingDown for /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-12.54.50:772][134]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.14-12.54.50:777][134]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-12.54.50:779][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.54.50:779][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-12.54.50:786][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-12.54.50:808][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.14-12.54.50:808][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.01.14-12.54.50:809][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.01.14-12.54.50:818][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.14-12.54.50:871][135]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.01.14-12.55.23:660][485]Cmd: TRANSACTION UNDO
+[2026.01.14-12.55.23:660][485]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-12.56.45:575][665]Cmd: DELETE
+[2026.01.14-12.56.45:575][665]Cmd: ACTOR DELETE
+[2026.01.14-12.56.45:579][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-12.56.45:604][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.14-12.56.45:606][665]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.01.14-12.57.06:818][ 75]Cmd: DELETE
+[2026.01.14-12.57.06:818][ 75]Cmd: ACTOR DELETE
+[2026.01.14-12.57.06:821][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-12.57.06:846][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.01.14-12.57.06:849][ 75]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.01.14-12.58.00:950][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4753.876465
+[2026.01.14-12.58.01:253][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-12.58.01:253][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4754.165527, Update Interval: 315.657837
+[2026.01.14-12.58.48:780][927]Cmd: TRANSACTION UNDO
+[2026.01.14-12.58.48:780][927]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.59.31:924][821]Cmd: TRANSACTION UNDO
+[2026.01.14-12.59.31:924][821]LogEditorTransaction: Undo Move Elements
+[2026.01.14-12.59.46:493][775]Cmd: TRANSACTION UNDO
+[2026.01.14-12.59.46:493][775]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-13.00.37:666][214]Cmd: DELETE
+[2026.01.14-13.00.37:666][214]Cmd: ACTOR DELETE
+[2026.01.14-13.00.37:669][214]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.00.37:695][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.14-13.00.37:697][214]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.14-13.01.27:952][839]Cmd: DELETE
+[2026.01.14-13.01.27:952][839]Cmd: ACTOR DELETE
+[2026.01.14-13.01.27:956][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.01.27:981][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.14-13.01.27:983][839]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.01.14-13.02.30:426][116]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.02.30:431][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.02.30:498][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.14-13.02.30:579][116]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.02.30:579][116]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap5E3D55354C0EB99B0EAAF19E937A9936.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.02.30:590][116]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.135
+[2026.01.14-13.02.30:598][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.233 ms (total: 1.16 sec)
+[2026.01.14-13.02.30:626][116]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.02.30:626][116]LogContentValidation: Enabled validators:
+[2026.01.14-13.02.30:626][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.02.30:626][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.02.30:626][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.02.30:626][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.02.30:626][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.02.30:626][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.02.30:626][116]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: ================================================
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Total job queries 570, among them cache hits 84 (14.74%), DDC hits 412 (72.28%), Duplicates 64 (11.23%)
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Tracking 422 distinct input hashes that result in 307 distinct outputs (72.75%)
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: RAM used: 4.20 MiB of 1.60 GiB budget. Usage: 0.26%
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Average time worker was idle: 572.72 s
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 1.51 s
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 1.62
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Shader code size: total 140.848 KiB, numShaders 12, average 11.737 KiB, min 3.023 KiB, max 25.684 KiB
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.62 s
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Average processing rate: 1.51 jobs/sec
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Total thread time: 6.562 s
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Total thread preprocess time: 6.265 s
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Percentage time preprocessing: 95.48%
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Effective parallelization: 0.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.099070
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.36 sec, max 1.42 sec, min 1.31 sec)
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.40 sec, max 0.40 sec, min 0.39 sec)
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.30 sec)
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.24 sec, max 0.25 sec, min 0.24 sec)
+[2026.01.14-13.03.05:949][759]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 61.97% of total time (compiled    3 times, average 1.36 sec, max 1.42 sec, min 1.31 sec)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display:                                                  FVelocityPS - 12.08% of total time (compiled    2 times, average 0.40 sec, max 0.40 sec, min 0.39 sec)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.24% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.30 sec)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display:                                                  FVelocityVS - 7.46% of total time (compiled    2 times, average 0.24 sec, max 0.25 sec, min 0.24 sec)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.42% of total time (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: Materials Translated:    173
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: Material Translation Only: 0.04 s (36%)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: Material Cache Hits: 30 (17%)
+[2026.01.14-13.03.05:950][759]LogShaderCompilers: Display: ================================================
+[2026.01.14-13.03.11:321][117]Cmd: TRANSACTION UNDO
+[2026.01.14-13.03.11:321][117]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.03.11:548][122]Cmd: TRANSACTION UNDO
+[2026.01.14-13.03.11:548][122]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.03.11:697][126]Cmd: TRANSACTION UNDO
+[2026.01.14-13.03.11:697][126]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-13.03.11:859][131]Cmd: TRANSACTION UNDO
+[2026.01.14-13.03.11:859][131]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.03.12:108][143]Cmd: TRANSACTION UNDO
+[2026.01.14-13.03.12:108][143]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.03.12:464][164]Cmd: TRANSACTION UNDO
+[2026.01.14-13.03.12:464][164]LogEditorTransaction: Undo Replace component used material
+[2026.01.14-13.03.58:570][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5111.530273
+[2026.01.14-13.03.58:884][218]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.03.58:884][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5111.830078, Update Interval: 334.033020
+[2026.01.14-13.04.31:334][468]LogSlate: Took 0.008258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.01.14-13.04.31:334][468]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffcc, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.01.14-13.04.31:334][468]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ￌ (U+ffcc)'
+[2026.01.14-13.04.31:343][468]LogSlate: Took 0.008141 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.14-13.04.31:346][468]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffcc, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.01.14-13.04.50:399][790]Cmd: DELETE
+[2026.01.14-13.04.50:399][790]Cmd: ACTOR DELETE
+[2026.01.14-13.04.50:403][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.04.50:428][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.14-13.04.50:429][790]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.14-13.05.01:331][575]Cmd: TRANSACTION UNDO
+[2026.01.14-13.05.01:331][575]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-13.06.12:590][230]Cmd: DELETE
+[2026.01.14-13.06.12:590][230]Cmd: ACTOR DELETE
+[2026.01.14-13.06.12:593][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.06.12:617][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.14-13.06.12:619][230]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.01.14-13.08.11:658][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.08.11:734][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.14-13.08.11:781][466]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.08.11:781][466]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap7EA27FAE4863ADBA366BFBA2DE2C9510.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.08.11:792][466]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.109
+[2026.01.14-13.08.11:801][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.038 ms (total: 1.30 sec)
+[2026.01.14-13.08.11:832][466]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.08.11:832][466]LogContentValidation: Enabled validators:
+[2026.01.14-13.08.11:832][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.08.11:832][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.08.11:832][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.08.11:832][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.08.11:832][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.08.11:832][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.08.11:832][466]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.08.37:983][163]Cmd: TRANSACTION UNDO
+[2026.01.14-13.08.37:983][163]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-13.09.07:494][ 65]Cmd: DELETE
+[2026.01.14-13.09.07:494][ 65]Cmd: ACTOR DELETE
+[2026.01.14-13.09.07:498][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.09.07:523][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.14-13.09.07:524][ 65]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.14-13.09.39:978][298]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-13.09.42:395][449]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-13.09.43:062][487]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-13.09.44:590][595]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-13.09.48:717][899]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-13.09.49:322][942]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.14-13.09.51:644][107]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.14-13.09.51:657][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.09.51:658][107]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.09.51:658][107]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.09.51:669][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011393s)
+[2026.01.14-13.09.51:669][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap to /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap (0.011442s)
+[2026.01.14-13.09.51:692][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.14-13.09.51:693][107]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-13.09.51:695][107]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-13.09.51:695][107]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2026.01.14-13.09.51:696][107]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.01.14-13.09.51:696][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.09.51:696][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.09.51:696][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.09.51:696][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.09.51:696][107]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.09.51:696][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.09.51:696][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.09.51:696][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.09.51:696][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.09.51:696][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.09.51:696][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.09.51:699][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.09.51:715][107]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.14-13.09.51:715][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.09.51:715][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.09.51:715][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.09.51:716][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.01.14-13.09.51:716][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.01.14-13.09.51:717][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.01.14-13.09.51:717][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.01.14-13.09.51:717][107]LogInit: FAudioDevice initialized with ID 9.
+[2026.01.14-13.09.51:717][107]LogAudio: Display: Audio Device (ID: 9) registered with world 'AmnajchareonMap'.
+[2026.01.14-13.09.51:717][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.14-13.09.51:736][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.09.51:736][107]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.14-13.09.51:741][107]LogWorld: Bringing World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap up for play (max tick rate 0) at 2026.01.14-20.09.51
+[2026.01.14-13.09.51:742][107]LogWorld: Bringing up level for play took: 0.005170
+[2026.01.14-13.09.51:744][107]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.01.14-13.09.51:756][107]PIE: Server logged in
+[2026.01.14-13.09.51:759][107]PIE: Play in editor total start time 0.102 seconds.
+[2026.01.14-13.10.01:421][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.10.01:421][836]LogWorld: BeginTearingDown for /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.10.01:422][836]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.14-13.10.01:432][836]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.10.01:433][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.10.01:434][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.10.01:440][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.10.01:463][836]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.14-13.10.01:463][836]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.01.14-13.10.01:465][836]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.01.14-13.10.01:473][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.14-13.10.01:522][837]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.01.14-13.10.04:586][ 22]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.14-13.10.04:599][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.10.04:599][ 22]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.10.04:599][ 22]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.10.04:610][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011081s)
+[2026.01.14-13.10.04:610][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap to /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap (0.011122s)
+[2026.01.14-13.10.04:632][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.14-13.10.04:633][ 22]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-13.10.04:634][ 22]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-13.10.04:635][ 22]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2026.01.14-13.10.04:636][ 22]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.01.14-13.10.04:636][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.10.04:636][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.10.04:636][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.10.04:636][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.10.04:636][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.10.04:636][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.10.04:636][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.10.04:636][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.10.04:636][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.10.04:636][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.10.04:636][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.10.04:637][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.10.04:652][ 22]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.14-13.10.04:652][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.10.04:652][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.10.04:652][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.10.04:653][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.01.14-13.10.04:653][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.01.14-13.10.04:655][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.01.14-13.10.04:655][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.01.14-13.10.04:655][ 22]LogInit: FAudioDevice initialized with ID 10.
+[2026.01.14-13.10.04:655][ 22]LogAudio: Display: Audio Device (ID: 10) registered with world 'AmnajchareonMap'.
+[2026.01.14-13.10.04:655][ 22]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.14-13.10.04:673][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.10.04:673][ 22]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.14-13.10.04:678][ 22]LogWorld: Bringing World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap up for play (max tick rate 0) at 2026.01.14-20.10.04
+[2026.01.14-13.10.04:678][ 22]LogWorld: Bringing up level for play took: 0.004904
+[2026.01.14-13.10.04:680][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.01.14-13.10.04:691][ 22]PIE: Server logged in
+[2026.01.14-13.10.04:695][ 22]PIE: Play in editor total start time 0.097 seconds.
+[2026.01.14-13.10.13:544][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5486.560547
+[2026.01.14-13.10.13:854][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.10.13:854][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5486.856445, Update Interval: 340.716583
+[2026.01.14-13.10.15:961][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.10.15:961][883]LogWorld: BeginTearingDown for /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.10.15:962][883]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.14-13.10.15:971][883]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.10.15:973][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.10.15:973][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.10.15:980][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.10.16:002][883]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.14-13.10.16:002][883]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.01.14-13.10.16:004][883]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.01.14-13.10.16:011][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.14-13.10.16:064][884]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.01.14-13.11.27:082][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.11.27:154][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.14-13.11.27:202][112]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.11.27:202][112]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap6E2A854346D88417B31F79AA69903719.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.11.27:213][112]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.105
+[2026.01.14-13.11.27:224][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.069 ms (total: 1.44 sec)
+[2026.01.14-13.11.27:256][112]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.11.27:256][112]LogContentValidation: Enabled validators:
+[2026.01.14-13.11.27:257][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.11.27:257][112]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.11.27:257][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.11.27:257][112]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.11.27:257][112]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.11.27:257][112]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.11.27:257][112]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.11.28:208][182]LogFab: Display: Logging in using persist
+[2026.01.14-13.11.28:208][182]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2026.01.14-13.11.28:346][182]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.01.14-13.11.28:357][182]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.01.14-13.11.28:587][182]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2026.01.14-13.11.28:587][182]LogFab: Display: Logging in using exchange code
+[2026.01.14-13.11.28:587][182]LogFab: Display: Reading exchange code from commandline
+[2026.01.14-13.11.28:587][182]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2026.01.14-13.11.28:616][183]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2026.01.14-13.11.31:999][419]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.01.14-13.11.31:999][419]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.01.14-13.13.55:060][561]LogFab: Display: Asset Type = gltf
+[2026.01.14-13.13.55:060][561]LogFab: Display: Is Quixel = 1
+[2026.01.14-13.13.58:676][793]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.13.59:051][793]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.01.14-13.13.59:051][793]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/usEr/AppData/Local/Temp/FabLibrary/5cdcb10f-26c7-4b00-86a4-e51a0e999f25/dusty_concrete_stairs_uiznce1ga_ue_low_extracted/uiznce1ga_tier_3.gltf]
+[2026.01.14-13.13.59:115][795]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.13.59:144][796]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.13.59:188][798]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.13.59:231][799]LogTexture: Display: Building textures: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B.T_uiznce1ga_1K_B (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.01.14-13.13.59:231][799]LogTexture: Display: Building textures: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM.T_uiznce1ga_1K_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.01.14-13.13.59:231][799]LogTexture: Display: Building textures: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N.T_uiznce1ga_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 270.749988 MB), EncodeSpeed: Fast
+[2026.01.14-13.13.59:236][800]LogStaticMesh: Display: Building static mesh uiznce1ga_tier_3 (Required Memory Estimate: 4.467258 MB)...
+[2026.01.14-13.13.59:242][800]LogStaticMesh: Adjacency [0.00s], tris: 3099, UVs 1
+[2026.01.14-13.13.59:247][800]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.14-13.13.59:248][800]LogStaticMesh: Leaves [0.00s]
+[2026.01.14-13.13.59:345][806]LogStaticMesh: Reduce [0.10s]
+[2026.01.14-13.13.59:393][810]LogStaticMesh: Fallback [0.05s], num tris: 1583
+[2026.01.14-13.13.59:394][810]LogStaticMesh: ConstrainClusters:
+[2026.01.14-13.13.59:394][810]LogStaticMesh:   Input: 52 Clusters, 6497 Triangles and 5077 Vertices
+[2026.01.14-13.13.59:394][810]LogStaticMesh:   Output without splits: 52 Clusters, 6497 Triangles and 5150 Vertices
+[2026.01.14-13.13.59:394][810]LogStaticMesh:   Output with splits: 52 Clusters, 6497 Triangles and 5150 Vertices
+[2026.01.14-13.13.59:394][810]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 52, Slow Path Clusters: 0, 1 Material: 52, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-13.13.59:395][810]LogStaticMesh: WritePages:
+[2026.01.14-13.13.59:395][810]LogStaticMesh:   Root: GPU size: 32144 bytes. 1 Pages. 32144.000 bytes per page (98.096% utilization).
+[2026.01.14-13.13.59:395][810]LogStaticMesh:   Streaming: GPU size: 37136 bytes. 1 Pages (1 with relative encoding). 37136.000 bytes per page (28.333% utilization).
+[2026.01.14-13.13.59:395][810]LogStaticMesh:   Page data disk size: 60180 bytes. Fixup data size: 344 bytes.
+[2026.01.14-13.13.59:395][810]LogStaticMesh:   Total GPU size: 69280 bytes, Total disk size: 60524 bytes.
+[2026.01.14-13.13.59:395][810]LogStaticMesh: Encode [0.00s]
+[2026.01.14-13.13.59:395][810]LogStaticMesh: NaniteBuild [0.15s]
+[2026.01.14-13.13.59:403][810]LogStaticMesh: Built static mesh [0.17s] /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.13.59:448][811]LogInterchangeEngine: Display: Interchange import completed [C:/Users/usEr/AppDat...1ga_ue_low_extracted/uiznce1ga_tier_3.gltf]
+[2026.01.14-13.14.12:971][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.14.12:995][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3] ([1] browsable assets)...
+[2026.01.14-13.14.12:999][784]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3]
+[2026.01.14-13.14.12:999][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3]
+[2026.01.14-13.14.13:011][784]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3
+[2026.01.14-13.14.13:011][784]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/uiznce1ga_tier_3AA5F88D34244C8833099EFACDF584501.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uasset'
+[2026.01.14-13.14.13:020][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.035 ms (total: 1.49 sec)
+[2026.01.14-13.14.13:040][784]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.14.13:040][784]LogContentValidation: Enabled validators:
+[2026.01.14-13.14.13:040][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.14.13:040][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.14.13:040][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.14.13:040][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.14.13:040][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.14.13:040][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.14.13:040][784]AssetCheck: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3 Validating asset
+[2026.01.14-13.14.13:066][784]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-13.14.17:084][ 67]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.17:084][ 67]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.17:084][ 67]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_208
+[2026.01.14-13.14.18:468][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.14-13.14.18:470][213]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.01.14-13.14.18:475][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.18:476][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.18:477][213]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_209
+[2026.01.14-13.14.20:004][308]Cmd: TRANSACTION UNDO
+[2026.01.14-13.14.20:004][308]LogEditorTransaction: Undo Place Objects
+[2026.01.14-13.14.21:327][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.21:327][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.21:328][368]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_210
+[2026.01.14-13.14.22:028][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.14-13.14.22:030][441]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.01.14-13.14.22:035][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.22:035][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3
+[2026.01.14-13.14.22:037][441]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/StaticMeshes/uiznce1ga_tier_3.uiznce1ga_tier_3 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_211
+[2026.01.14-13.14.55:501][691]Cmd: TRANSACTION UNDO
+[2026.01.14-13.14.55:501][691]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-13.14.55:667][697]Cmd: TRANSACTION UNDO
+[2026.01.14-13.14.55:667][697]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.14.55:805][701]Cmd: TRANSACTION UNDO
+[2026.01.14-13.14.55:805][701]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-13.14.56:097][714]Cmd: TRANSACTION UNDO
+[2026.01.14-13.14.56:097][714]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-13.14.56:540][745]Cmd: TRANSACTION UNDO
+[2026.01.14-13.14.56:540][745]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.14.57:034][780]Cmd: TRANSACTION UNDO
+[2026.01.14-13.14.57:034][780]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-13.15.32:087][264]Cmd: MODE ROTGRID=0
+[2026.01.14-13.15.45:961][330]Cmd: MODE ROTGRID=1
+[2026.01.14-13.16.33:647][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.16.33:718][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.14-13.16.33:765][472]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.16.33:766][472]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap11DC2F5449C1B8FCF73973A103292AB2.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.16.33:776][472]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.106
+[2026.01.14-13.16.33:793][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.026 ms (total: 1.64 sec)
+[2026.01.14-13.16.33:823][472]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.16.33:823][472]LogContentValidation: Enabled validators:
+[2026.01.14-13.16.33:823][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.16.33:823][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.16.33:823][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.16.33:823][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.16.33:823][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.16.33:823][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.16.33:823][472]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.16.42:637][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5875.565918
+[2026.01.14-13.16.42:933][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.16.42:933][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5875.847656, Update Interval: 321.559509
+[2026.01.14-13.22.35:710][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6228.418457
+[2026.01.14-13.22.36:022][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.22.36:022][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6228.716309, Update Interval: 308.413940
+[2026.01.14-13.26.33:721][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.14-13.26.33:723][927]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyGame/Province/Amnajchareon/AmnajchareonMap' took 0.028
+[2026.01.14-13.26.33:725][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N] ([1] browsable assets)...
+[2026.01.14-13.26.33:727][927]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N.T_uiznce1ga_1K_N]
+[2026.01.14-13.26.33:727][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N]
+[2026.01.14-13.26.33:738][927]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N_Auto1
+[2026.01.14-13.26.33:738][927]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/T_uiznce1ga_1K_N_Auto1679AB0FB4396203EFB31C2A98A5C2DA7.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Saved/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N_Auto1.uasset'
+[2026.01.14-13.26.33:739][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM] ([1] browsable assets)...
+[2026.01.14-13.26.33:741][927]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM.T_uiznce1ga_1K_ORM]
+[2026.01.14-13.26.33:741][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM]
+[2026.01.14-13.26.33:753][927]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM_Auto1
+[2026.01.14-13.26.33:753][927]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/T_uiznce1ga_1K_ORM_Auto1885816BC406CB429BF884699F1778835.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Saved/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM_Auto1.uasset'
+[2026.01.14-13.26.33:754][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B] ([1] browsable assets)...
+[2026.01.14-13.26.33:756][927]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B.T_uiznce1ga_1K_B]
+[2026.01.14-13.26.33:756][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B]
+[2026.01.14-13.26.33:768][927]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B_Auto1
+[2026.01.14-13.26.33:768][927]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/T_uiznce1ga_1K_B_Auto1FA0DAD8E44EB652D82303C954D0D0231.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Saved/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B_Auto1.uasset'
+[2026.01.14-13.26.33:769][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga] ([1] browsable assets)...
+[2026.01.14-13.26.33:780][927]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga.MI_uiznce1ga]
+[2026.01.14-13.26.33:780][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga]
+[2026.01.14-13.26.33:788][927]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga_Auto1
+[2026.01.14-13.26.33:788][927]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/MI_uiznce1ga_Auto12B73A78E4B0804A8CDA6F384918D9513.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Saved/Autosaves/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga_Auto1.uasset'
+[2026.01.14-13.26.33:790][927]LogFileHelpers: Auto-saving content packages took 0.066
+[2026.01.14-13.28.18:982][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6571.519531
+[2026.01.14-13.28.19:278][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.28.19:278][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6571.802734, Update Interval: 305.041046
+[2026.01.14-13.33.18:841][732]Cmd: DELETE
+[2026.01.14-13.33.18:841][732]Cmd: ACTOR DELETE
+[2026.01.14-13.33.18:845][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.33.18:873][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.14-13.33.18:875][732]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.01.14-13.33.23:385][ 90]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.14-13.33.23:398][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.33.23:398][ 90]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.33.23:398][ 90]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.33.23:410][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011296s)
+[2026.01.14-13.33.23:410][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap to /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap (0.011343s)
+[2026.01.14-13.33.23:432][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.14-13.33.23:435][ 90]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-13.33.23:436][ 90]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-13.33.23:437][ 90]LogPlayLevel: PIE: World Init took: (0.001773s)
+[2026.01.14-13.33.23:437][ 90]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.01.14-13.33.23:437][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.33.23:437][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.33.23:437][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.33.23:437][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.33.23:438][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.33.23:438][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.33.23:438][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.33.23:438][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.33.23:438][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.33.23:438][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.33.23:438][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.33.23:440][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.33.23:457][ 90]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.14-13.33.23:457][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.33.23:457][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.33.23:457][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.33.23:458][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.01.14-13.33.23:458][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.01.14-13.33.23:459][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.01.14-13.33.23:459][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.01.14-13.33.23:459][ 90]LogInit: FAudioDevice initialized with ID 11.
+[2026.01.14-13.33.23:459][ 90]LogAudio: Display: Audio Device (ID: 11) registered with world 'AmnajchareonMap'.
+[2026.01.14-13.33.23:459][ 90]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.14-13.33.23:484][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.33.23:484][ 90]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.14-13.33.23:490][ 90]LogWorld: Bringing World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap up for play (max tick rate 0) at 2026.01.14-20.33.23
+[2026.01.14-13.33.23:490][ 90]LogWorld: Bringing up level for play took: 0.005243
+[2026.01.14-13.33.23:492][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.01.14-13.33.23:502][ 90]PIE: Server logged in
+[2026.01.14-13.33.23:506][ 90]PIE: Play in editor total start time 0.108 seconds.
+[2026.01.14-13.33.33:781][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.33.33:781][885]LogWorld: BeginTearingDown for /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.33.33:781][885]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.14-13.33.33:787][885]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.33.33:789][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.33.33:790][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.33.33:796][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.33.33:820][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-13.33.33:820][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.14-13.33.33:820][885]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.01.14-13.33.33:822][885]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.01.14-13.33.33:832][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.14-13.33.33:865][886]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.01.14-13.33.36:785][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.33.36:854][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.14-13.33.36:901][128]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.33.36:901][128]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap2A4CE3E74426F86651C56FB0F2652218.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.33.36:912][128]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.103
+[2026.01.14-13.33.36:925][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.776 ms (total: 1.78 sec)
+[2026.01.14-13.33.36:960][128]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.33.36:960][128]LogContentValidation: Enabled validators:
+[2026.01.14-13.33.36:960][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.33.36:960][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.33.36:960][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.33.36:960][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.33.36:960][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.33.36:960][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.33.36:960][128]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.33.59:816][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6912.276855
+[2026.01.14-13.34.00:116][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.34.00:116][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6912.567871, Update Interval: 340.425415
+[2026.01.14-13.35.04:702][629]Cmd: TRANSACTION UNDO
+[2026.01.14-13.35.04:702][629]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.35.04:928][635]Cmd: TRANSACTION UNDO
+[2026.01.14-13.35.04:928][635]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.35.05:196][641]Cmd: TRANSACTION UNDO
+[2026.01.14-13.35.05:196][641]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.35.05:390][653]Cmd: TRANSACTION UNDO
+[2026.01.14-13.35.05:390][653]LogEditorTransaction: Undo Delete Elements
+[2026.01.14-13.35.05:698][670]Cmd: TRANSACTION UNDO
+[2026.01.14-13.35.05:699][670]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.35.15:054][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.14-13.35.15:817][301]LogSlate: Window 'Save Content' being destroyed
+[2026.01.14-13.35.15:827][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.35.15:893][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.14-13.35.15:939][301]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.35.15:939][301]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap9B5479744FBE74727ACBF59293272953.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.35.15:951][301]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.102
+[2026.01.14-13.35.15:951][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga] ([1] browsable assets)...
+[2026.01.14-13.35.15:951][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga]
+[2026.01.14-13.35.15:957][301]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga
+[2026.01.14-13.35.15:957][301]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/MI_uiznce1ga3FE9198D42C158F88EC14DA1A2C87A0E.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga.uasset'
+[2026.01.14-13.35.15:958][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B] ([1] browsable assets)...
+[2026.01.14-13.35.15:958][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B]
+[2026.01.14-13.35.15:976][301]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B
+[2026.01.14-13.35.15:976][301]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/T_uiznce1ga_1K_BCD2E9FA54A01936F4CDB099F9986A17E.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B.uasset'
+[2026.01.14-13.35.15:978][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N] ([1] browsable assets)...
+[2026.01.14-13.35.15:978][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N]
+[2026.01.14-13.35.15:995][301]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N
+[2026.01.14-13.35.15:995][301]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/T_uiznce1ga_1K_N47F46B5A47ACE2F04010C9AC319B567F.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N.uasset'
+[2026.01.14-13.35.15:996][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM] ([1] browsable assets)...
+[2026.01.14-13.35.15:996][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM]
+[2026.01.14-13.35.16:013][301]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM
+[2026.01.14-13.35.16:013][301]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/T_uiznce1ga_1K_ORM8470A39C49CE9804A5664086DE2F22C3.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM.uasset'
+[2026.01.14-13.35.16:024][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.327 ms (total: 1.97 sec)
+[2026.01.14-13.35.16:054][301]LogContentValidation: Display: Starting to validate 5 assets
+[2026.01.14-13.35.16:054][301]LogContentValidation: Enabled validators:
+[2026.01.14-13.35.16:054][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.35.16:054][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.35.16:054][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.35.16:054][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.35.16:054][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.35.16:054][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.35.16:054][301]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.35.16:054][301]AssetCheck: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Materials/MI_uiznce1ga Validating asset
+[2026.01.14-13.35.16:054][301]AssetCheck: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_B Validating asset
+[2026.01.14-13.35.16:054][301]AssetCheck: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_N Validating asset
+[2026.01.14-13.35.16:054][301]AssetCheck: /Game/Fab/Megascans/3D/Dusty_Concrete_Stairs_uiznce1ga/Low/uiznce1ga_tier_3/Textures/T_uiznce1ga_1K_ORM Validating asset
+[2026.01.14-13.35.16:106][301]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-13.35.26:901][800]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.35.27:073][800]LogInterchangeEngine: [Pending] Importing
+[2026.01.14-13.35.27:073][800]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/usEr/Downloads/concrete.jpg]
+[2026.01.14-13.35.27:295][802]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.35.27:295][802]LogInterchangeImport: JPEG file [C:/Users/usEr/Downloads/concrete.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.01.14-13.35.27:334][804]LogTexture: Display: Building textures: /Game/MyGame/image/concrete.concrete (BGRA8, 721x240 x1x1x1) (Required Memory Estimate: 6.940857 MB), EncodeSpeed: Fast
+[2026.01.14-13.35.27:382][805]LogInterchangeEngine: Display: Interchange import completed [C:/Users/usEr/Downloads/concrete.jpg]
+[2026.01.14-13.35.27:390][805]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.14-13.35.27:390][805]LogInterchangeEngine: [Success] Import Done
+[2026.01.14-13.35.28:738][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.35.28:771][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyGame/image/concrete] ([1] browsable assets)...
+[2026.01.14-13.35.28:773][896]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyGame/image/concrete.concrete]
+[2026.01.14-13.35.28:773][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/image/concrete]
+[2026.01.14-13.35.28:773][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/image/concrete" FILE="../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/concrete.uasset" SILENT=true
+[2026.01.14-13.35.28:783][896]LogSavePackage: Moving output files for package: /Game/MyGame/image/concrete
+[2026.01.14-13.35.28:783][896]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/concreteF2338EA2427EC21306F1BEA846FA0130.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/concrete.uasset'
+[2026.01.14-13.35.28:793][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.712 ms (total: 2.03 sec)
+[2026.01.14-13.35.28:817][896]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.35.28:817][896]LogContentValidation: Enabled validators:
+[2026.01.14-13.35.28:817][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.35.28:817][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.35.28:817][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.35.28:817][896]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.35.28:817][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.35.28:817][896]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.35.28:817][896]AssetCheck: /Game/MyGame/image/concrete Validating asset
+[2026.01.14-13.35.28:859][896]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-13.35.36:936][376]Cmd: DELETE
+[2026.01.14-13.35.36:936][376]Cmd: ACTOR DELETE
+[2026.01.14-13.35.36:940][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.35.36:966][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.14-13.35.36:968][376]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.01.14-13.35.37:731][425]Cmd: DELETE
+[2026.01.14-13.35.37:731][425]Cmd: ACTOR DELETE
+[2026.01.14-13.35.37:734][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.35.37:757][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.14-13.35.37:760][425]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: ================================================
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Total job queries 654, among them cache hits 94 (14.37%), DDC hits 448 (68.50%), Duplicates 75 (11.47%)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Tracking 485 distinct input hashes that result in 357 distinct outputs (73.61%)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: RAM used: 4.77 MiB of 1.60 GiB budget. Usage: 0.29%
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Shaders Compiled: 37
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100%)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Average time worker was idle: 317.23 s
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Time job spent in pending queue: average 0.51 s, longest 2.09 s
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 2.83 s
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Job life time (pending + execution): average 1.61 s, max 3.93
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Shader code size: total 486.707 KiB, numShaders 41, average 11.87 KiB, min 3.023 KiB, max 26.789 KiB
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.58 s
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Average processing rate: 3.50 jobs/sec
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Total thread time: 35.197 s
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Total thread preprocess time: 7.186 s
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Percentage time preprocessing: 20.42%
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Effective parallelization: 3.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.332832
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.58 sec, max 2.58 sec, min 2.58 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 2.57 sec, max 2.57 sec, min 2.57 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 2.55 sec, max 2.55 sec, min 2.55 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 2.52 sec, max 2.52 sec, min 2.52 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 18.82% of total time (compiled    4 times, average 1.66 sec, max 2.56 sec, min 1.31 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.80% of total time (compiled    3 times, average 1.03 sec, max 2.49 sec, min 0.30 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.41% of total time (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.33% of total time (compiled    1 times, average 2.58 sec, max 2.58 sec, min 2.58 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.30% of total time (compiled    1 times, average 2.57 sec, max 2.57 sec, min 2.57 sec)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Materials Translated:    203
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Material Translation Only: 0.07 s (41%)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: Material Cache Hits: 51 (25%)
+[2026.01.14-13.36.06:030][155]LogShaderCompilers: Display: ================================================
+[2026.01.14-13.36.23:630][270]Cmd: TRANSACTION UNDO
+[2026.01.14-13.36.23:630][270]LogEditorTransaction: Undo Place Objects
+[2026.01.14-13.36.28:531][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.36.28:600][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.14-13.36.28:647][571]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.36.28:647][571]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapC953A9874F388D6F77B12A89DAA0227C.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.36.28:658][571]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.101
+[2026.01.14-13.36.28:666][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.136 ms (total: 2.17 sec)
+[2026.01.14-13.36.28:692][571]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.36.28:692][571]LogContentValidation: Enabled validators:
+[2026.01.14-13.36.28:692][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.36.28:692][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.36.28:692][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.36.28:692][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.36.28:692][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.36.28:692][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.36.28:692][571]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.36.30:136][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.14-13.36.30:873][665]LogSlate: Window 'Save Content' being destroyed
+[2026.01.14-13.36.30:888][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.36.30:910][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyGame/image/concrete_Mat] ([1] browsable assets)...
+[2026.01.14-13.36.30:919][665]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyGame/image/concrete_Mat.concrete_Mat]
+[2026.01.14-13.36.30:919][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/image/concrete_Mat]
+[2026.01.14-13.36.30:919][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/image/concrete_Mat" FILE="../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/concrete_Mat.uasset" SILENT=true
+[2026.01.14-13.36.30:927][665]LogSavePackage: Moving output files for package: /Game/MyGame/image/concrete_Mat
+[2026.01.14-13.36.30:927][665]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/concrete_Mat36C7FC5A46152F1F0EC2E5BDEB174A4B.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/concrete_Mat.uasset'
+[2026.01.14-13.36.30:937][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.102 ms (total: 2.21 sec)
+[2026.01.14-13.36.30:965][665]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.36.30:965][665]LogContentValidation: Enabled validators:
+[2026.01.14-13.36.30:965][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.36.30:965][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.36.30:965][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.36.30:965][665]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.36.30:965][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.36.30:965][665]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.36.30:965][665]AssetCheck: /Game/MyGame/image/concrete_Mat Validating asset
+[2026.01.14-13.36.30:992][665]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-13.39.56:048][357]Cmd: TRANSACTION UNDO
+[2026.01.14-13.39.56:048][357]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.39.56:235][360]Cmd: TRANSACTION UNDO
+[2026.01.14-13.39.56:235][360]LogEditorTransaction: Undo Place Objects
+[2026.01.14-13.39.56:379][363]Cmd: TRANSACTION UNDO
+[2026.01.14-13.39.56:379][363]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.39.56:574][366]Cmd: TRANSACTION UNDO
+[2026.01.14-13.39.56:574][366]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.14-13.39.56:808][375]Cmd: TRANSACTION UNDO
+[2026.01.14-13.39.56:808][375]LogEditorTransaction: Undo Scale Elements
+[2026.01.14-13.40.01:702][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.40.01:770][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.14-13.40.01:818][677]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.40.01:818][677]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap73E7E4614C482F75973AC48A3B10DE35.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.40.01:828][677]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.105
+[2026.01.14-13.40.01:838][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.235 ms (total: 2.35 sec)
+[2026.01.14-13.40.01:864][677]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.40.01:864][677]LogContentValidation: Enabled validators:
+[2026.01.14-13.40.01:864][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.40.01:864][677]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.40.01:864][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.40.01:864][677]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.40.01:864][677]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.40.01:864][677]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.40.01:865][677]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.40.32:459][614]LogDerivedDataCache: C:/Users/usEr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.14-13.40.37:610][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7310.094727
+[2026.01.14-13.40.37:896][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.40.37:896][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7310.365234, Update Interval: 348.956573
+[2026.01.14-13.40.38:267][973]Cmd: TRANSACTION UNDO
+[2026.01.14-13.40.38:267][973]LogEditorTransaction: Undo Rotate Elements
+[2026.01.14-13.42.01:182][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.42.01:248][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.14-13.42.01:294][ 42]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.42.01:294][ 42]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap683B2DE44618C8BD3FAAC5954505603C.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.42.01:305][ 42]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.103
+[2026.01.14-13.42.01:314][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.497 ms (total: 2.48 sec)
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: Enabled validators:
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.42.01:339][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.42.01:339][ 42]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.42.10:116][576]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.14-13.42.10:128][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.42.10:128][576]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.42.10:128][576]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.42.10:140][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011503s)
+[2026.01.14-13.42.10:140][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap to /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap (0.011566s)
+[2026.01.14-13.42.10:164][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.14-13.42.10:166][576]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-13.42.10:167][576]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-13.42.10:167][576]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2026.01.14-13.42.10:168][576]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.01.14-13.42.10:168][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.42.10:168][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.42.10:168][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.42.10:168][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.42.10:168][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.42.10:168][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.42.10:168][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.42.10:168][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.42.10:168][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.42.10:168][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.42.10:168][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.42.10:170][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.42.10:186][576]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.14-13.42.10:187][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.42.10:187][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.42.10:187][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.42.10:188][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.01.14-13.42.10:188][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.01.14-13.42.10:189][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.01.14-13.42.10:189][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.01.14-13.42.10:189][576]LogInit: FAudioDevice initialized with ID 12.
+[2026.01.14-13.42.10:189][576]LogAudio: Display: Audio Device (ID: 12) registered with world 'AmnajchareonMap'.
+[2026.01.14-13.42.10:189][576]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.14-13.42.10:207][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.42.10:207][576]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.14-13.42.10:213][576]LogWorld: Bringing World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap up for play (max tick rate 0) at 2026.01.14-20.42.10
+[2026.01.14-13.42.10:213][576]LogWorld: Bringing up level for play took: 0.005470
+[2026.01.14-13.42.10:216][576]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.01.14-13.42.10:229][576]PIE: Server logged in
+[2026.01.14-13.42.10:234][576]PIE: Play in editor total start time 0.106 seconds.
+[2026.01.14-13.42.14:860][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.42.14:860][901]LogWorld: BeginTearingDown for /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.42.14:861][901]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.14-13.42.14:871][901]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.42.14:873][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.42.14:874][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.42.14:879][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.42.14:903][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-13.42.14:904][901]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.14-13.42.14:904][901]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.01.14-13.42.14:906][901]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.01.14-13.42.14:914][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.14-13.42.14:976][902]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.01.14-13.43.29:738][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.43.29:808][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.14-13.43.29:855][232]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.43.29:855][232]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap52A519544AEE20327B6A599AF95DDBB2.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.43.29:865][232]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.104
+[2026.01.14-13.43.29:875][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.413 ms (total: 2.62 sec)
+[2026.01.14-13.43.29:905][232]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.43.29:905][232]LogContentValidation: Enabled validators:
+[2026.01.14-13.43.29:905][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.43.29:905][232]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.43.29:905][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.43.29:905][232]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.43.29:905][232]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.43.29:905][232]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.43.29:905][232]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.44.16:180][108]LogSlate: Window 'Fab' being destroyed
+[2026.01.14-13.44.16:182][108]LogSlate: Window 'Fab' being destroyed
+[2026.01.14-13.44.17:860][113]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.01.14-13.44.17:860][113]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/search?is_free=1&listing_types=3d-model&q=concrete.
+[2026.01.14-13.45.27:897][487]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Megascans/3D/Nordic_Forest_Cliff_Large_xibldbu/Low/xibldbu_tier_3/StaticMeshes/xibldbu_tier_3.xibldbu_tier_3
+[2026.01.14-13.45.27:915][487]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.14-13.45.27:915][487]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2026.01.14-13.45.27:920][487]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.46.02:993][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.46.03:023][556]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Nordic_Forest_Cliff_Large_xibldbu/Low/xibldbu_tier_3/StaticMeshes/xibldbu_tier_3] ([1] browsable assets)...
+[2026.01.14-13.46.03:029][556]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/3D/Nordic_Forest_Cliff_Large_xibldbu/Low/xibldbu_tier_3/StaticMeshes/xibldbu_tier_3.xibldbu_tier_3]
+[2026.01.14-13.46.03:029][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Nordic_Forest_Cliff_Large_xibldbu/Low/xibldbu_tier_3/StaticMeshes/xibldbu_tier_3]
+[2026.01.14-13.46.03:042][556]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Nordic_Forest_Cliff_Large_xibldbu/Low/xibldbu_tier_3/StaticMeshes/xibldbu_tier_3
+[2026.01.14-13.46.03:042][556]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/xibldbu_tier_338400AB5423BC606A73D54B9D3F490EF.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/Fab/Megascans/3D/Nordic_Forest_Cliff_Large_xibldbu/Low/xibldbu_tier_3/StaticMeshes/xibldbu_tier_3.uasset'
+[2026.01.14-13.46.03:052][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.709 ms (total: 2.68 sec)
+[2026.01.14-13.46.03:080][556]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.46.03:080][556]LogContentValidation: Enabled validators:
+[2026.01.14-13.46.03:080][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.46.03:080][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.46.03:080][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.46.03:080][556]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.46.03:080][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.46.03:080][556]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.46.03:081][556]AssetCheck: /Game/Fab/Megascans/3D/Nordic_Forest_Cliff_Large_xibldbu/Low/xibldbu_tier_3/StaticMeshes/xibldbu_tier_3 Validating asset
+[2026.01.14-13.46.05:646][697]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.14-13.46.05:659][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-13.46.05:659][697]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.46.05:659][697]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.46.05:672][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011819s)
+[2026.01.14-13.46.05:672][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap to /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap (0.011865s)
+[2026.01.14-13.46.05:709][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.14-13.46.05:711][697]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-13.46.05:712][697]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-13.46.05:712][697]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2026.01.14-13.46.05:713][697]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.01.14-13.46.05:713][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-13.46.05:713][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-13.46.05:713][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-13.46.05:713][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-13.46.05:713][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-13.46.05:713][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-13.46.05:713][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-13.46.05:713][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-13.46.05:713][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-13.46.05:713][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-13.46.05:713][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-13.46.05:715][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-13.46.05:730][697]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.14-13.46.05:731][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-13.46.05:731][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-13.46.05:731][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-13.46.05:731][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.01.14-13.46.05:731][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.01.14-13.46.05:733][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.01.14-13.46.05:733][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.01.14-13.46.05:733][697]LogInit: FAudioDevice initialized with ID 13.
+[2026.01.14-13.46.05:733][697]LogAudio: Display: Audio Device (ID: 13) registered with world 'AmnajchareonMap'.
+[2026.01.14-13.46.05:733][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.14-13.46.05:753][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.46.05:753][697]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.14-13.46.05:758][697]LogWorld: Bringing World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap up for play (max tick rate 0) at 2026.01.14-20.46.05
+[2026.01.14-13.46.05:758][697]LogWorld: Bringing up level for play took: 0.004681
+[2026.01.14-13.46.05:760][697]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.01.14-13.46.05:771][697]PIE: Server logged in
+[2026.01.14-13.46.05:776][697]PIE: Play in editor total start time 0.117 seconds.
+[2026.01.14-13.46.16:020][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-13.46.16:021][298]LogWorld: BeginTearingDown for /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-13.46.16:021][298]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.14-13.46.16:026][298]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.46.16:028][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.46.16:029][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-13.46.16:035][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.46.16:059][298]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.14-13.46.16:059][298]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.01.14-13.46.16:062][298]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.01.14-13.46.16:071][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.14-13.46.16:134][299]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.01.14-13.46.17:517][372]LogSlate: Window 'xibldbu_tier_3' being destroyed
+[2026.01.14-13.46.17:524][372]LogSlate: Window 'xibldbu_tier_3' being destroyed
+[2026.01.14-13.46.17:530][372]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.46.17:530][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.46.17:632][372]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-13.46.17:632][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-13.46.17:678][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.14-13.46.38:004][700]Cmd: TRANSACTION UNDO
+[2026.01.14-13.46.38:004][700]LogEditorTransaction: Undo Move Elements
+[2026.01.14-13.47.02:574][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.47.02:641][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.14-13.47.02:692][288]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.47.02:692][288]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapA01B93314B66AEE888F8B69913BCAF2F.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.47.02:702][288]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.109
+[2026.01.14-13.47.02:710][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.029 ms (total: 2.82 sec)
+[2026.01.14-13.47.02:737][288]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.47.02:737][288]LogContentValidation: Enabled validators:
+[2026.01.14-13.47.02:737][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.47.02:737][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.47.02:737][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.47.02:737][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.47.02:737][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.47.02:737][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.47.02:737][288]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.47.11:624][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7704.106445
+[2026.01.14-13.47.11:940][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.47.11:940][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7704.407715, Update Interval: 317.426666
+[2026.01.14-13.48.18:540][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.48.18:608][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.14-13.48.18:659][ 25]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.48.18:659][ 25]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapE18FC2EF4CAE4C34DA270DB4FDF61C37.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.48.18:671][ 25]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.107
+[2026.01.14-13.48.18:678][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.099 ms (total: 2.95 sec)
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: Enabled validators:
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.48.18:705][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.48.18:706][ 25]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.48.57:199][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.48.57:269][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.14-13.48.57:321][417]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.48.57:321][417]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap966C1EF14975A3AFE4771A80D2336B9D.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.48.57:331][417]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.107
+[2026.01.14-13.48.57:341][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.995 ms (total: 3.10 sec)
+[2026.01.14-13.48.57:371][417]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.48.57:371][417]LogContentValidation: Enabled validators:
+[2026.01.14-13.48.57:371][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.48.57:372][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.48.57:372][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.48.57:372][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.48.57:372][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.48.57:372][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.48.57:372][417]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.49.32:080][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.49.32:146][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.14-13.49.32:197][573]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.49.32:197][573]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap0EBA83A24BB21ED311224D90A12BFAE5.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.49.32:208][573]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.107
+[2026.01.14-13.49.32:222][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.505 ms (total: 3.24 sec)
+[2026.01.14-13.49.32:249][573]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.49.32:249][573]LogContentValidation: Enabled validators:
+[2026.01.14-13.49.32:249][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.49.32:249][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.49.32:249][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.49.32:249][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.49.32:249][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.49.32:249][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.49.32:249][573]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.50.10:384][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.10:384][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.10:385][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_214
+[2026.01.14-13.50.11:393][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.14-13.50.11:397][184]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.01.14-13.50.11:402][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.11:402][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.11:404][184]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_215
+[2026.01.14-13.50.13:251][290]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.13:251][290]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.13:251][290]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_216
+[2026.01.14-13.50.13:727][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.14-13.50.13:731][333]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.01.14-13.50.13:736][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.13:736][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36
+[2026.01.14-13.50.13:737][333]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/RockEnv_Pack/Meshes/Rocks/SM_Rock_36.SM_Rock_36 as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_217
+[2026.01.14-13.51.02:728][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.51.02:795][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.14-13.51.02:846][180]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.51.02:846][180]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap9CF3A7704707B474B7C054A518DB8854.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.51.02:856][180]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.107
+[2026.01.14-13.51.02:868][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.247 ms (total: 3.38 sec)
+[2026.01.14-13.51.02:896][180]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.51.02:896][180]LogContentValidation: Enabled validators:
+[2026.01.14-13.51.02:896][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.51.02:896][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.51.02:896][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.51.02:896][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.51.02:896][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.51.02:896][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.51.02:896][180]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.52.00:387][969]LogFab: Display: Logging in using persist
+[2026.01.14-13.52.00:387][969]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2026.01.14-13.52.00:418][969]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2026.01.14-13.52.00:418][969]LogFab: Display: Logging in using exchange code
+[2026.01.14-13.52.00:418][969]LogFab: Display: Reading exchange code from commandline
+[2026.01.14-13.52.00:418][969]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2026.01.14-13.52.00:436][970]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2026.01.14-13.52.02:821][118]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.01.14-13.52.02:821][118]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.01.14-13.52.08:023][445]LogSlate: Window 'Fab' being destroyed
+[2026.01.14-13.52.08:029][445]LogSlate: Window 'Fab' being destroyed
+[2026.01.14-13.52.09:527][541]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.01.14-13.52.09:527][541]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5?listing_types=3d-model.
+[2026.01.14-13.52.24:522][463]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.01.14-13.52.24:527][463]Message dialog closed, result: Cancel, title: Loading Many Assets, text: About to load 133 assets. Are you sure you want to continue?
+[2026.01.14-13.52.25:221][502]Cmd: DELETE
+[2026.01.14-13.52.25:221][502]Cmd: ACTOR DELETE
+[2026.01.14-13.52.25:224][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.52.25:251][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.01.14-13.52.25:256][502]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.01.14-13.52.26:091][559]Cmd: DELETE
+[2026.01.14-13.52.26:091][559]Cmd: ACTOR DELETE
+[2026.01.14-13.52.26:094][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.52.26:117][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.14-13.52.26:119][559]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.01.14-13.52.41:620][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.52.41:620][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.52.41:621][839]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_219
+[2026.01.14-13.52.41:621][839]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_219
+[2026.01.14-13.52.46:117][128]Cmd: DELETE
+[2026.01.14-13.52.46:117][128]Cmd: ACTOR DELETE
+[2026.01.14-13.52.46:120][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.52.46:145][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.14-13.52.46:149][128]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.01.14-13.52.50:731][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.52.50:731][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.52.50:732][586]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_220
+[2026.01.14-13.52.50:733][586]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_220
+[2026.01.14-13.53.03:257][326]Cmd: DELETE
+[2026.01.14-13.53.03:257][326]Cmd: ACTOR DELETE
+[2026.01.14-13.53.03:259][326]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.53.03:286][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.14-13.53.03:289][326]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.01.14-13.53.09:549][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8062.054199
+[2026.01.14-13.53.09:871][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.53.09:871][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8062.366211, Update Interval: 339.174774
+[2026.01.14-13.53.13:956][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.53.13:956][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-13.53.13:957][188]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_221
+[2026.01.14-13.53.13:957][188]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_221
+[2026.01.14-13.54.02:771][170]Cmd: DELETE
+[2026.01.14-13.54.02:771][170]Cmd: ACTOR DELETE
+[2026.01.14-13.54.02:775][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.54.02:804][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.14-13.54.02:810][170]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.14-13.54.26:440][673]Cmd: DELETE
+[2026.01.14-13.54.26:441][673]Cmd: ACTOR DELETE
+[2026.01.14-13.54.26:444][673]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.54.26:469][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.14-13.54.26:473][673]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.01.14-13.54.36:919][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.54.36:993][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.14-13.54.37:044][295]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.54.37:045][295]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapA18396FF4EBAD1DF30C95689A4FD889E.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.54.37:056][295]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.110
+[2026.01.14-13.54.37:068][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.654 ms (total: 3.53 sec)
+[2026.01.14-13.54.37:097][295]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.54.37:097][295]LogContentValidation: Enabled validators:
+[2026.01.14-13.54.37:097][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.54.37:097][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.54.37:097][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.54.37:097][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.54.37:097][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.54.37:097][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.54.37:097][295]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.55.22:760][974]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.55.22:771][974]LogInterchangeEngine: [Pending] Importing
+[2026.01.14-13.55.22:771][974]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/usEr/Downloads/stone brick.jpg]
+[2026.01.14-13.55.23:151][976]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-13.55.23:151][976]LogInterchangeImport: JPEG file [C:/Users/usEr/Downloads/stone brick.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.01.14-13.55.23:186][978]LogTexture: Display: Building textures: /Game/MyGame/image/stone_brick.stone_brick (TFO_AutoDXT, 628x240 x1x1x1) (Required Memory Estimate: 18.15271 MB), EncodeSpeed: Fast
+[2026.01.14-13.55.23:213][978]LogInterchangeEngine: Display: Interchange import completed [C:/Users/usEr/Downloads/stone brick.jpg]
+[2026.01.14-13.55.23:221][978]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.14-13.55.23:221][978]LogInterchangeEngine: [Success] Import Done
+[2026.01.14-13.55.24:358][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.55.24:382][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyGame/image/stone_brick] ([1] browsable assets)...
+[2026.01.14-13.55.24:383][ 42]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyGame/image/stone_brick.stone_brick]
+[2026.01.14-13.55.24:383][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/image/stone_brick]
+[2026.01.14-13.55.24:383][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/image/stone_brick" FILE="../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/stone_brick.uasset" SILENT=true
+[2026.01.14-13.55.24:392][ 42]LogSavePackage: Moving output files for package: /Game/MyGame/image/stone_brick
+[2026.01.14-13.55.24:392][ 42]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/stone_brickA12B3D19478E598038C41A8494DDCFDA.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/stone_brick.uasset'
+[2026.01.14-13.55.24:401][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.991 ms (total: 3.57 sec)
+[2026.01.14-13.55.24:427][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.55.24:427][ 42]LogContentValidation: Enabled validators:
+[2026.01.14-13.55.24:427][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.55.24:427][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.55.24:427][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.55.24:427][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.55.24:428][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.55.24:428][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.55.24:428][ 42]AssetCheck: /Game/MyGame/image/stone_brick Validating asset
+[2026.01.14-13.55.24:470][ 42]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-13.55.36:251][720]Cmd: DELETE
+[2026.01.14-13.55.36:251][720]Cmd: ACTOR DELETE
+[2026.01.14-13.55.36:254][720]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-13.55.36:281][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.14-13.55.36:286][720]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.01.14-13.56.17:948][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.56.18:014][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.14-13.56.18:064][210]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.56.18:065][210]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapDE648EB245D64C2CB56C5E9719440F16.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.56.18:076][210]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.106
+[2026.01.14-13.56.18:087][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.970 ms (total: 3.71 sec)
+[2026.01.14-13.56.18:121][210]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.56.18:122][210]LogContentValidation: Enabled validators:
+[2026.01.14-13.56.18:122][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.56.18:122][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.56.18:122][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.56.18:122][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.56.18:122][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.56.18:122][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.56.18:122][210]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.56.24:212][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.56.24:276][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.14-13.56.24:325][571]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.56.24:325][571]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap12A7FB01413226EC1C3AE691584B5E97.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.56.24:337][571]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.104
+[2026.01.14-13.56.24:351][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.508 ms (total: 3.85 sec)
+[2026.01.14-13.56.24:383][571]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.56.24:383][571]LogContentValidation: Enabled validators:
+[2026.01.14-13.56.24:383][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.56.24:383][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.56.24:383][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.56.24:383][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.56.24:383][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.56.24:383][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.56.24:384][571]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.56.59:474][495]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffcc, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: ================================================
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Total job queries 687, among them cache hits 107 (15.57%), DDC hits 454 (66.08%), Duplicates 82 (11.94%)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Tracking 498 distinct input hashes that result in 368 distinct outputs (73.90%)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: RAM used: 4.96 MiB of 1.60 GiB budget. Usage: 0.30%
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Shaders Compiled: 44
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Average time worker was idle: 495.24 s
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Time job spent in pending queue: average 0.44 s, longest 2.09 s
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 3.05 s
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 3.93
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Shader code size: total 651.883 KiB, numShaders 48, average 13.58 KiB, min 3.023 KiB, max 26.789 KiB
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.73 s
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Average processing rate: 3.20 jobs/sec
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Total thread time: 53.125 s
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Total thread preprocess time: 7.628 s
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Percentage time preprocessing: 14.36%
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Effective parallelization: 3.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.386817
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 2.70 sec, max 2.82 sec, min 2.58 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 2.70 sec, max 2.79 sec, min 2.61 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 2.68 sec, max 2.80 sec, min 2.55 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 2.67 sec, max 2.77 sec, min 2.57 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 2.65 sec, max 2.79 sec, min 2.52 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.47% of total time (compiled    4 times, average 1.66 sec, max 2.56 sec, min 1.31 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 10.16% of total time (compiled    2 times, average 2.70 sec, max 2.82 sec, min 2.58 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.16% of total time (compiled    2 times, average 2.70 sec, max 2.79 sec, min 2.61 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 10.07% of total time (compiled    2 times, average 2.68 sec, max 2.80 sec, min 2.55 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.05% of total time (compiled    2 times, average 2.67 sec, max 2.77 sec, min 2.57 sec)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Materials Translated:    206
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Material Translation Only: 0.07 s (40%)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: Material Cache Hits: 51 (25%)
+[2026.01.14-13.57.06:127][922]LogShaderCompilers: Display: ================================================
+[2026.01.14-13.57.15:651][595]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffcc, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.01.14-13.57.15:853][618]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+ffcc, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.01.14-13.57.35:024][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.57.35:102][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.14-13.57.35:155][279]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.57.35:155][279]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap61FC2D4E45563A37A73A429F6A891D29.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.57.35:165][279]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.116
+[2026.01.14-13.57.35:180][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.620 ms (total: 4.01 sec)
+[2026.01.14-13.57.35:211][279]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.57.35:211][279]LogContentValidation: Enabled validators:
+[2026.01.14-13.57.35:211][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.57.35:211][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.57.35:211][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.57.35:211][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.57.35:211][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.57.35:211][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.57.35:212][279]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.57.50:321][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.14-13.57.51:066][281]LogSlate: Window 'Save Content' being destroyed
+[2026.01.14-13.57.51:079][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.57.51:100][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyGame/image/stone_brick_Mat] ([1] browsable assets)...
+[2026.01.14-13.57.51:109][281]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyGame/image/stone_brick_Mat.stone_brick_Mat]
+[2026.01.14-13.57.51:109][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/image/stone_brick_Mat]
+[2026.01.14-13.57.51:109][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/image/stone_brick_Mat" FILE="../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/stone_brick_Mat.uasset" SILENT=true
+[2026.01.14-13.57.51:117][281]LogSavePackage: Moving output files for package: /Game/MyGame/image/stone_brick_Mat
+[2026.01.14-13.57.51:117][281]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/stone_brick_Mat018714E44297DB12DC64FEB5B9D84360.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/image/stone_brick_Mat.uasset'
+[2026.01.14-13.57.51:127][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.958 ms (total: 4.05 sec)
+[2026.01.14-13.57.51:153][281]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.57.51:154][281]LogContentValidation: Enabled validators:
+[2026.01.14-13.57.51:154][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.57.51:154][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.57.51:154][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.57.51:154][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.57.51:154][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.57.51:154][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.57.51:154][281]AssetCheck: /Game/MyGame/image/stone_brick_Mat Validating asset
+[2026.01.14-13.57.51:181][281]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../GIthub/Project-senior/ProjectVR/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-13.58.27:869][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-13.58.27:938][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.14-13.58.27:988][830]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-13.58.27:988][830]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapB366E10E4D93B0BC54D137977DF6FD74.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-13.58.27:999][830]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.108
+[2026.01.14-13.58.28:011][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.005 ms (total: 4.20 sec)
+[2026.01.14-13.58.28:042][830]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-13.58.28:042][830]LogContentValidation: Enabled validators:
+[2026.01.14-13.58.28:042][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-13.58.28:042][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-13.58.28:042][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-13.58.28:042][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-13.58.28:042][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-13.58.28:042][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-13.58.28:042][830]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-13.59.19:713][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8432.187500
+[2026.01.14-13.59.20:713][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-13.59.20:713][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8432.853516, Update Interval: 342.066101
+[2026.01.14-14.06.02:131][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8834.523438
+[2026.01.14-14.06.03:132][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-14.06.03:132][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8835.190430, Update Interval: 337.296051
+[2026.01.14-14.08.21:867][615]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.14-14.08.21:879][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-14.08.21:880][615]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-14.08.21:880][615]LogPlayLevel: Creating play world package: /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-14.08.21:892][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012046s)
+[2026.01.14-14.08.21:892][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap to /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap (0.012095s)
+[2026.01.14-14.08.21:919][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.14-14.08.21:922][615]LogChaosDD: Creating Chaos Debug Draw Scene for world AmnajchareonMap
+[2026.01.14-14.08.21:923][615]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap'.
+[2026.01.14-14.08.21:924][615]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2026.01.14-14.08.21:924][615]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.01.14-14.08.21:924][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-14.08.21:925][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-14.08.21:925][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-14.08.21:925][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-14.08.21:925][615]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-14.08.21:925][615]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-14.08.21:925][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-14.08.21:925][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-14.08.21:925][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-14.08.21:925][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-14.08.21:925][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-14.08.21:926][615]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-14.08.21:942][615]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.01.14-14.08.21:943][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-14.08.21:943][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-14.08.21:943][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-14.08.21:943][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.01.14-14.08.21:943][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.01.14-14.08.21:945][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.01.14-14.08.21:945][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.01.14-14.08.21:945][615]LogInit: FAudioDevice initialized with ID 14.
+[2026.01.14-14.08.21:945][615]LogAudio: Display: Audio Device (ID: 14) registered with world 'AmnajchareonMap'.
+[2026.01.14-14.08.21:945][615]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.14-14.08.21:966][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-14.08.21:966][615]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.14-14.08.21:972][615]LogWorld: Bringing World /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap.AmnajchareonMap up for play (max tick rate 0) at 2026.01.14-21.08.21
+[2026.01.14-14.08.21:973][615]LogWorld: Bringing up level for play took: 0.005380
+[2026.01.14-14.08.21:975][615]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.01.14-14.08.21:985][615]PIE: Server logged in
+[2026.01.14-14.08.21:990][615]PIE: Play in editor total start time 0.11 seconds.
+[2026.01.14-14.08.37:860][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-14.08.37:861][775]LogWorld: BeginTearingDown for /Game/MyGame/Province/Amnajchareon/UEDPIE_0_AmnajchareonMap
+[2026.01.14-14.08.37:861][775]LogSlate: Window 'ProjectVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.14-14.08.37:871][775]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-14.08.37:873][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-14.08.37:874][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-14.08.37:881][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-14.08.37:907][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-14.08.37:907][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.14-14.08.37:907][775]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.01.14-14.08.37:909][775]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.01.14-14.08.37:918][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.14-14.08.37:971][776]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.01.14-14.08.53:060][942]Cmd: MODE GRID=0
+[2026.01.14-14.09.05:141][866]Cmd: MODE GRID=1
+[2026.01.14-14.09.06:856][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-14.09.06:926][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.14-14.09.06:975][ 30]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-14.09.06:975][ 30]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap267B1D914BA8CE5D6E12F780BCFDC94D.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-14.09.06:986][ 30]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.109
+[2026.01.14-14.09.07:000][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.495 ms (total: 4.34 sec)
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: Enabled validators:
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-14.09.07:034][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-14.09.07:034][ 30]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-14.09.34:124][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-14.09.34:124][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-14.09.34:125][379]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_226
+[2026.01.14-14.09.34:126][379]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/MyGame/Province/Amnajchareon/AmnajchareonMap.AmnajchareonMap:PersistentLevel.StaticMeshActor_226
+[2026.01.14-14.10.29:924][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-14.10.29:992][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.14-14.10.30:045][214]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-14.10.30:045][214]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMap03BEAC15409EEBE9DDFB588028861AB0.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-14.10.30:056][214]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.110
+[2026.01.14-14.10.30:070][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.799 ms (total: 4.49 sec)
+[2026.01.14-14.10.30:099][214]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-14.10.30:099][214]LogContentValidation: Enabled validators:
+[2026.01.14-14.10.30:099][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-14.10.30:099][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-14.10.30:099][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-14.10.30:099][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-14.10.30:099][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-14.10.30:099][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-14.10.30:099][214]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-14.11.26:526][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-14.11.26:592][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.14-14.11.26:641][943]LogSavePackage: Moving output files for package: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap
+[2026.01.14-14.11.26:642][943]LogSavePackage: Moving '../../../../GIthub/Project-senior/ProjectVR/Saved/AmnajchareonMapFB81C52F475E3F180F38C6AE7635A354.tmp' to '../../../../GIthub/Project-senior/ProjectVR/Content/MyGame/Province/Amnajchareon/AmnajchareonMap.umap'
+[2026.01.14-14.11.26:652][943]LogFileHelpers: Saving map 'AmnajchareonMap' took 0.105
+[2026.01.14-14.11.26:667][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.076 ms (total: 4.63 sec)
+[2026.01.14-14.11.26:697][943]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-14.11.26:697][943]LogContentValidation: Enabled validators:
+[2026.01.14-14.11.26:697][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-14.11.26:697][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-14.11.26:697][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-14.11.26:697][943]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-14.11.26:697][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-14.11.26:697][943]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-14.11.26:697][943]AssetCheck: /Game/MyGame/Province/Amnajchareon/AmnajchareonMap Validating asset
+[2026.01.14-14.12.24:073][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.01.14-14.12.24:123][ 23]LogStall: Shutdown...
+[2026.01.14-14.12.24:123][ 23]LogStall: Shutdown complete.
+[2026.01.14-14.12.24:165][ 23]LogSlate: Window 'ProjectVR - Unreal Editor' being destroyed
+[2026.01.14-14.12.24:327][ 23]Cmd: QUIT_EDITOR
+[2026.01.14-14.12.24:327][ 24]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.14-14.12.24:332][ 24]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.14-14.12.24:332][ 24]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.14-14.12.24:333][ 24]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.14-14.12.24:336][ 24]LogWorld: UWorld::CleanupWorld for AmnajchareonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-14.12.24:336][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-14.12.24:347][ 24]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.14-14.12.24:347][ 24]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.14-14.12.24:348][ 24]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.14-14.12.24:353][ 24]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-14.12.24:353][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-14.12.24:357][ 24]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-14.12.24:357][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-14.12.24:360][ 24]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.14-14.12.24:360][ 24]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.14-14.12.24:372][ 24]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.14-14.12.24:783][ 24]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.14-14.12.24:783][ 24]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.14-14.12.24:783][ 24]LogAudio: Display: Audio Device unregistered from world 'AmnajchareonMap'.
+[2026.01.14-14.12.24:783][ 24]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.14-14.12.24:783][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.14-14.12.24:786][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.14-14.12.24:793][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.14-14.12.24:793][ 24]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.14-14.12.24:794][ 24]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.01.14-14.12.24:796][ 24]LogExit: Preparing to exit.
+[2026.01.14-14.12.24:848][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.14-14.12.24:859][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:859][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.24:860][ 24]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.14-14.12.25:137][ 24]LogEditorDataStorage: Deinitializing
+[2026.01.14-14.12.25:324][ 24]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.14-14.12.25:369][ 24]LogExit: Editor shut down
+[2026.01.14-14.12.25:379][ 24]LogExit: Transaction tracking system shut down
+[2026.01.14-14.12.25:685][ 24]LogExit: Object subsystem successfully closed.
+[2026.01.14-14.12.25:789][ 24]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.14-14.12.25:978][ 24]LogMemoryProfiler: Shutdown
+[2026.01.14-14.12.25:978][ 24]LogNetworkingProfiler: Shutdown
+[2026.01.14-14.12.25:978][ 24]LoadingProfiler: Shutdown
+[2026.01.14-14.12.25:978][ 24]LogTimingProfiler: Shutdown
+[2026.01.14-14.12.25:980][ 24]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.14-14.12.25:980][ 24]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.14-14.12.26:295][ 24]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.14-14.12.26:295][ 24]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.14-14.12.26:319][ 24]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.14-14.12.26:319][ 24]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9E1F91A-48FD-6A69-DFBB-BB807A4E72B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=e614fb55467e4da8c419c6bb1a44d737%7C7ce82e4abd4042919de901488f07f75f%7Caa8f4f11-21e5-4753-aaef-4952e10f8c61&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.14-14.12.27:375][ 24]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.14-14.12.27:375][ 24]RenderDocPlugin: plugin has been unloaded.
+[2026.01.14-14.12.27:375][ 24]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.14-14.12.27:380][ 24]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.14-14.12.27:380][ 24]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.14-14.12.27:380][ 24]LogPakFile: Destroying PakPlatformFile
+[2026.01.14-14.12.27:628][ 24]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.14-14.12.27:686][ 24]LogExit: Exiting.
+[2026.01.14-14.12.27:713][ 24]Log file closed, 01/14/26 21:12:27
