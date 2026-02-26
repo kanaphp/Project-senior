@@ -1,5 +1,6 @@
-2026/02/12-11:12:50.293 2518 Reusing MANIFEST C:/GIthub/Project-senior/ProjectVR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/12-11:12:50.301 2518 Recovering log #176
-2026/02/12-11:12:50.301 2518 Level-0 table #179: started
-2026/02/12-11:12:50.306 2518 Level-0 table #179: 78119 bytes OK
-2026/02/12-11:12:50.309 2518 Delete type=0 #176
+2026/02/26-10:52:16.880 642c Reusing MANIFEST C:/GIthub/Project-senior/ProjectVR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/26-10:52:16.889 642c Recovering log #225
+2026/02/26-10:52:16.890 642c Reusing old log C:/GIthub/Project-senior/ProjectVR/Saved/webcache_4430\Local Storage\leveldb/000225.log 
+2026/02/26-10:53:19.956 15c8 Level-0 table #229: started
+2026/02/26-10:53:19.961 15c8 Level-0 table #229: 72826 bytes OK
+2026/02/26-10:53:19.965 15c8 Delete type=0 #225
