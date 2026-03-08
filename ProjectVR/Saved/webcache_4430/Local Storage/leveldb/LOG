@@ -1,6 +1,18 @@
-2026/03/05-09:48:27.424 2b6c Reusing MANIFEST C:/GIthub/Project-senior/ProjectVR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/05-09:48:27.435 2b6c Recovering log #247
-2026/03/05-09:48:27.438 2b6c Reusing old log C:/GIthub/Project-senior/ProjectVR/Saved/webcache_4430\Local Storage\leveldb/000247.log 
-2026/03/05-09:48:53.982 2b6c Level-0 table #251: started
-2026/03/05-09:48:53.986 2b6c Level-0 table #251: 70498 bytes OK
-2026/03/05-09:48:53.989 2b6c Delete type=0 #247
+2026/03/06-19:53:27.557 4544 Reusing MANIFEST C:/GIthub/Project-senior/ProjectVR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/06-19:53:27.564 4544 Recovering log #250
+2026/03/06-19:53:27.565 4544 Reusing old log C:/GIthub/Project-senior/ProjectVR/Saved/webcache_4430\Local Storage\leveldb/000250.log 
+2026/03/06-19:54:30.231 4544 Level-0 table #254: started
+2026/03/06-19:54:30.235 4544 Level-0 table #254: 70442 bytes OK
+2026/03/06-19:54:30.245 4544 Delete type=0 #250
+2026/03/06-20:11:12.974 1134 Level-0 table #256: started
+2026/03/06-20:11:12.985 1134 Level-0 table #256: 70055 bytes OK
+2026/03/06-20:11:12.988 1134 Delete type=0 #253
+2026/03/06-20:11:12.989 1134 Compacting 4@0 + 1@1 files
+2026/03/06-20:11:12.993 1134 Generated table #257@0: 30 keys, 39873 bytes
+2026/03/06-20:11:12.993 1134 Compacted 4@0 + 1@1 files => 39873 bytes
+2026/03/06-20:11:12.995 1134 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/06-20:11:12.996 1134 Delete type=2 #245
+2026/03/06-20:11:12.996 1134 Delete type=2 #248
+2026/03/06-20:11:12.996 1134 Delete type=2 #251
+2026/03/06-20:11:12.996 1134 Delete type=2 #254
+2026/03/06-20:11:12.996 1134 Delete type=2 #256
